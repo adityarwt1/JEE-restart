@@ -1,0 +1,2076 @@
+{
+    "success": true,
+    "statusCode": 200,
+    "data": {
+        "sections": [
+            {
+                "_id": "6979ebbbdd67beaf75fffeb3",
+                "name": "Default section",
+                "displayOrder": 1,
+                "isOptional": false,
+                "questions": [
+                    {
+                        "_id": "6979ebbcdd67beaf75fffec1",
+                        "type": "Single",
+                        "questionNumber": 1,
+                        "positiveMarks": 4,
+                        "positiveMarksStr": "4",
+                        "negativeMarks": 1,
+                        "negativeMarksStr": "1",
+                        "texts": {
+                            "en": "<p>Complete solution of \\( \\frac{x}{x+3} \\leq 2 \\) is</p>"
+                        },
+                        "options": [
+                            {
+                                "_id": "6979ebbcdd67beaf75fffedf",
+                                "texts": {
+                                    "en": "<p>\\( x \\in[-6, \\infty) \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75fffee0",
+                                "texts": {
+                                    "en": "<p>\\( x \\in(-\\infty,-6] \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75fffee1",
+                                "texts": {
+                                    "en": "<p>\\( x \\in(-\\infty,-6] \\cup(-3, \\infty) \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75fffee2",
+                                "texts": {
+                                    "en": "<p>\\( x \\in[-6,-3) \\)</p>"
+                                }
+                            }
+                        ],
+                        "difficultyLevel": 1,
+                        "pyqYears": [],
+                        "topicId": {
+                            "name": "Wavy Curve Method",
+                            "_id": "rmu561e7dtc5y7foxoktibrc9"
+                        },
+                        "sectionId": "6979ebbbdd67beaf75fffeb3",
+                        "subjectId": "19c8p297y48dy01537cxzinys",
+                        "chapterId": "j5papfkg773kpwkt08xazxad7",
+                        "subTopicId": "gxic1andzjcrfur4b03qw6apu",
+                        "solutions": [
+                            "6979ebbcdd67beaf75fffee1"
+                        ],
+                        "solutionDescription": [
+                            {
+                                "_id": "6979ebbcdd67beaf75fffec2",
+                                "texts": {
+                                    "en": "<p>Given that -</p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>x</mi><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac><mo>&le;</mo><mn>2</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo><mfrac><mi>x</mi><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac><mo>-</mo><mn>2</mn><mo>&le;</mo><mn>0</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo><mfrac><mrow><mi>x</mi><mo>-</mo><mn>2</mn><mo>(</mo><mi>x</mi><mo>+</mo><mn>3</mn><mo>)</mo></mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac><mo>&le;</mo><mn>0</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo><mfrac><mrow><mi>x</mi><mo>-</mo><mn>2</mn><mi>x</mi><mo>-</mo><mn>6</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac><mo>&le;</mo><mn>0</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo><mfrac><mrow><mo>-</mo><mi>x</mi><mo>-</mo><mn>6</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac><mo>&le;</mo><mn>0</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo><mfrac><mrow><mo>-</mo><mo>(</mo><mi>x</mi><mo>+</mo><mn>6</mn><mo>)</mo></mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac><mo>&le;</mo><mn>0</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo><mfrac><mrow><mo>(</mo><mi>x</mi><mo>+</mo><mn>6</mn><mo>)</mo></mrow><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfrac><mo>&ge;</mo><mn>0</mn></math></p>\n<p>Now,</p>\n<p><img title=\"Screenshot 2024-09-25 002805.png\" src=\"https://static.pw.live/5eb393ee95fab7468a79d189/QBG/1de2f366-5974-49a4-96d2-84798c1ec3c6.png\" alt=\"\" width=\"263\" height=\"44\" /></p>\n<p>And</p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&ne;</mo><mo>-</mo><mn>3</mn></math></p>\n<p>Hence,</p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&isin;</mo><mo>(</mo><mo>-</mo><mo>&infin;</mo><mo>,</mo><mo>-</mo><mn>6</mn><mo>]</mo><mo>&cup;</mo><mo>(</mo><mo>-</mo><mn>3</mn><mo>,</mo><mo>&infin;</mo><mo>)</mo></math></p>"
+                                },
+                                "videoType": "penpencilvdo",
+                                "videoDetails": {
+                                    "_id": "6860bfe29fc3a73a9cf247fb",
+                                    "id": "6860bfe29fc3a73a9cf247fb",
+                                    "name": "l8pkgowy9wbq1h0a5tcohqnvd",
+                                    "image": "",
+                                    "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/ffa42c91-85d6-4d94-a1d9-8e787d3d75fe/master.mpd",
+                                    "description": "<!DOCTYPE html><html><head></head><body><p>youtube_video/l8pkgowy9wbq1h0a5tcohqnvd.mp4</p>↵</body></html>",
+                                    "duration": "00:01:19",
+                                    "status": "Ready",
+                                    "types": [
+                                        "DASH",
+                                        "HLS"
+                                    ],
+                                    "createdAt": "2025-06-29T04:24:02.890Z",
+                                    "drmProtected": false,
+                                    "isZipDownloadEnabled": false,
+                                    "isCmafEnabled": false
+                                }
+                            }
+                        ],
+                        "qbgSubjectId": "19c8p297y48dy01537cxzinys",
+                        "qbgChapterId": "j5papfkg773kpwkt08xazxad7",
+                        "qbgTopicId": "rmu561e7dtc5y7foxoktibrc9",
+                        "qbgId": "l8pkgowy9wbq1h0a5tcohqnvd",
+                        "numericDecimalLimit": null,
+                        "exam": ""
+                    },
+                    {
+                        "_id": "6979ebbcdd67beaf75fffecd",
+                        "type": "Single",
+                        "questionNumber": 2,
+                        "positiveMarks": 4,
+                        "positiveMarksStr": "4",
+                        "negativeMarks": 1,
+                        "negativeMarksStr": "1",
+                        "texts": {
+                            "en": "<p>Solution of inequality \\( \\frac{1}{x-5}&lt;3 \\) is</p>"
+                        },
+                        "options": [
+                            {
+                                "_id": "6979ebbcdd67beaf75fffef3",
+                                "texts": {
+                                    "en": "<p>\\( x \\in(-\\infty, 5) \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75fffef4",
+                                "texts": {
+                                    "en": "<p>\\( x \\in\\left(\\frac{16}{3}, \\infty\\right) \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75fffef5",
+                                "texts": {
+                                    "en": "<p>\\( x \\in\\left(5, \\frac{16}{3}\\right) \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75fffef6",
+                                "texts": {
+                                    "en": "<p>\\( x \\in(-\\infty, 5) \\cup\\left(\\frac{16}{3}, \\infty\\right) \\)</p>"
+                                }
+                            }
+                        ],
+                        "difficultyLevel": 1,
+                        "pyqYears": [],
+                        "topicId": {
+                            "name": "Wavy Curve Method",
+                            "_id": "rmu561e7dtc5y7foxoktibrc9"
+                        },
+                        "sectionId": "6979ebbbdd67beaf75fffeb3",
+                        "subjectId": "19c8p297y48dy01537cxzinys",
+                        "chapterId": "j5papfkg773kpwkt08xazxad7",
+                        "subTopicId": "gxic1andzjcrfur4b03qw6apu",
+                        "solutions": [
+                            "6979ebbcdd67beaf75fffef6"
+                        ],
+                        "solutionDescription": [
+                            {
+                                "_id": "6979ebbcdd67beaf75fffece",
+                                "texts": {
+                                    "en": "<p>Given that -</p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mrow><mi>x</mi><mo>-</mo><mn>5</mn></mrow></mfrac><mo>&lt;</mo><mn>3</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo><mfrac><mn>1</mn><mrow><mi>x</mi><mo>-</mo><mn>5</mn></mrow></mfrac><mo>-</mo><mn>3</mn><mo>&lt;</mo><mn>0</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo><mfrac><mrow><mn>1</mn><mo>-</mo><mn>3</mn><mo>(</mo><mi>x</mi><mo>-</mo><mn>5</mn><mo>)</mo></mrow><mrow><mi>x</mi><mo>-</mo><mn>5</mn></mrow></mfrac><mo>&lt;</mo><mn>0</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo><mfrac><mrow><mn>1</mn><mo>-</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>15</mn></mrow><mrow><mi>x</mi><mo>-</mo><mn>5</mn></mrow></mfrac><mo>&lt;</mo><mn>0</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo><mfrac><mrow><mn>16</mn><mo>-</mo><mn>3</mn><mi>x</mi></mrow><mrow><mi>x</mi><mo>-</mo><mn>5</mn></mrow></mfrac><mo>&lt;</mo><mn>0</mn></math></p>\n<p>On multiplying both sides by&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>1</mn></math> , we get -</p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo><mfrac><mrow><mn>3</mn><mi>x</mi><mo>-</mo><mn>16</mn></mrow><mrow><mi>x</mi><mo>-</mo><mn>5</mn></mrow></mfrac><mo>&gt;</mo><mn>0</mn></math></p>\n<p>Now -</p>\n<p>Using wavy curve method we have -</p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&hellip;</mo><mo>&hellip;</mo><mfenced><mo>+</mo></mfenced><mo>&hellip;</mo><mo>&hellip;</mo><mo>&hellip;</mo><mo>&hellip;</mo><mn>5</mn><mo>&hellip;</mo><mo>&hellip;</mo><mo>&hellip;</mo><mfenced><mo>-</mo></mfenced><mo>&hellip;</mo><mo>&hellip;</mo><mo>&hellip;</mo><mo>&hellip;</mo><mfrac><mn>16</mn><mn>3</mn></mfrac><mo>&hellip;</mo><mo>&hellip;</mo><mo>&hellip;</mo><mfenced><mo>+</mo></mfenced><mo>&hellip;</mo><mo>&hellip;</mo></math></p>\n<p>Hence -</p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&isin;</mo><mo>(</mo><mo>-</mo><mo>&infin;</mo><mo>,</mo><mn>5</mn><mo>)</mo><mo>&cup;</mo><mo>(</mo><mfrac><mn>16</mn><mn>3</mn></mfrac><mo>,</mo><mo>&infin;</mo><mo>)</mo></math></p>"
+                                },
+                                "videoType": "penpencilvdo",
+                                "videoDetails": {
+                                    "_id": "6860bfe2b72543916dd02c80",
+                                    "id": "6860bfe2b72543916dd02c80",
+                                    "name": "c64ahcmjqzxi1q44tfeqjkg31",
+                                    "image": "",
+                                    "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/2b88e92e-ada6-42b4-a783-a8acbbedc88f/master.mpd",
+                                    "description": "<!DOCTYPE html><html><head></head><body><p>youtube_video/c64ahcmjqzxi1q44tfeqjkg31.mp4</p>↵</body></html>",
+                                    "duration": "00:01:38",
+                                    "status": "Ready",
+                                    "types": [
+                                        "DASH",
+                                        "HLS"
+                                    ],
+                                    "createdAt": "2025-06-29T04:24:02.392Z",
+                                    "drmProtected": false,
+                                    "isZipDownloadEnabled": false,
+                                    "isCmafEnabled": false
+                                }
+                            }
+                        ],
+                        "qbgSubjectId": "19c8p297y48dy01537cxzinys",
+                        "qbgChapterId": "j5papfkg773kpwkt08xazxad7",
+                        "qbgTopicId": "rmu561e7dtc5y7foxoktibrc9",
+                        "qbgId": "c64ahcmjqzxi1q44tfeqjkg31",
+                        "numericDecimalLimit": null,
+                        "exam": ""
+                    },
+                    {
+                        "_id": "6979ebbcdd67beaf75fffed6",
+                        "type": "Single",
+                        "questionNumber": 3,
+                        "positiveMarks": 4,
+                        "positiveMarksStr": "4",
+                        "negativeMarks": 1,
+                        "negativeMarksStr": "1",
+                        "texts": {
+                            "en": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>&nbsp;Values of '&nbsp;</mtext><mi>x</mi><mtext>&nbsp;' satisfying both inequalities:&nbsp;</mtext></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><munder><mrow><mi>x</mi><mo>-</mo><mn>3</mn><mo>&le;</mo><mn>4</mn><mo>&nbsp;</mo></mrow><mrow></mrow></munder><mo>&amp;</mo><mo>&nbsp;</mo><mfrac><mrow><mi>x</mi><mo>-</mo><mn>5</mn></mrow><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfrac><mo>&gt;</mo><mn>0</mn></math></p>"
+                        },
+                        "options": [
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff02",
+                                "texts": {
+                                    "en": "<p>\\( x \\in(-\\infty, 7] \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff03",
+                                "texts": {
+                                    "en": "<p>\\( x \\in(-\\infty,-1) \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff04",
+                                "texts": {
+                                    "en": "<p>\\( x \\in(-\\infty,-1) \\cup(5,7] \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff05",
+                                "texts": {
+                                    "en": "<p>&nbsp;\\( x \\in(5,7] \\)</p>"
+                                }
+                            }
+                        ],
+                        "difficultyLevel": 2,
+                        "pyqYears": [],
+                        "topicId": {
+                            "name": "Wavy Curve Method",
+                            "_id": "rmu561e7dtc5y7foxoktibrc9"
+                        },
+                        "sectionId": "6979ebbbdd67beaf75fffeb3",
+                        "subjectId": "19c8p297y48dy01537cxzinys",
+                        "chapterId": "j5papfkg773kpwkt08xazxad7",
+                        "subTopicId": "gxic1andzjcrfur4b03qw6apu",
+                        "solutions": [
+                            "6979ebbcdd67beaf75ffff04"
+                        ],
+                        "solutionDescription": [
+                            {
+                                "_id": "6979ebbcdd67beaf75fffed7",
+                                "videoType": "penpencilvdo",
+                                "videoDetails": {
+                                    "_id": "68637e45c5272f225f8f7f3d",
+                                    "id": "68637e45c5272f225f8f7f3d",
+                                    "name": "l9dw0oblor7328f74d3olbuuf",
+                                    "image": "",
+                                    "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/3c4df69d-c2f3-4664-bb15-2862294ea376/master.mpd",
+                                    "description": "<!DOCTYPE html><html><head></head><body><p>youtube_video/l9dw0oblor7328f74d3olbuuf.mp4</p>↵</body></html>",
+                                    "duration": "00:03:01",
+                                    "status": "Ready",
+                                    "types": [
+                                        "DASH",
+                                        "HLS"
+                                    ],
+                                    "createdAt": "2025-07-01T06:20:53.042Z",
+                                    "drmProtected": false,
+                                    "isZipDownloadEnabled": false,
+                                    "isCmafEnabled": false
+                                }
+                            }
+                        ],
+                        "qbgSubjectId": "19c8p297y48dy01537cxzinys",
+                        "qbgChapterId": "j5papfkg773kpwkt08xazxad7",
+                        "qbgTopicId": "rmu561e7dtc5y7foxoktibrc9",
+                        "qbgId": "l9dw0oblor7328f74d3olbuuf",
+                        "numericDecimalLimit": null,
+                        "exam": ""
+                    },
+                    {
+                        "_id": "6979ebbcdd67beaf75fffed0",
+                        "type": "Single",
+                        "questionNumber": 4,
+                        "positiveMarks": 4,
+                        "positiveMarksStr": "4",
+                        "negativeMarks": 1,
+                        "negativeMarksStr": "1",
+                        "texts": {
+                            "en": "<p>Values of \\( 'x' \\) satisfying: \\( -1&lt;\\frac{2 x}{x-1} \\leq 4 \\)</p>"
+                        },
+                        "options": [
+                            {
+                                "_id": "6979ebbcdd67beaf75fffef8",
+                                "texts": {
+                                    "en": "<p>\\( x \\in\\left(-\\infty, \\frac{1}{3}\\right) \\cup(1, \\infty) \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75fffef9",
+                                "texts": {
+                                    "en": "<p>\\( x \\in\\left(-\\infty, \\frac{1}{3}\\right) \\cup(2, \\infty) \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75fffefa",
+                                "texts": {
+                                    "en": "<p>\\( x \\in\\left(-\\infty, \\frac{1}{3}\\right) \\cup[2, \\infty) \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75fffefb",
+                                "texts": {
+                                    "en": "<p>\\( x \\in\\left(-\\infty, \\frac{1}{3}\\right) \\cup[2, \\infty) \\cup\\{1\\} \\)</p>"
+                                }
+                            }
+                        ],
+                        "difficultyLevel": 2,
+                        "pyqYears": [],
+                        "topicId": {
+                            "name": "Inequalities",
+                            "_id": "wwook5b4g9g1n096c8lrfnep9"
+                        },
+                        "sectionId": "6979ebbbdd67beaf75fffeb3",
+                        "subjectId": "19c8p297y48dy01537cxzinys",
+                        "chapterId": "fz0h996oq74fudihf5m8o4m1s",
+                        "subTopicId": "n6dhkwxe6kvoa8sb1wq03mrb2",
+                        "solutions": [
+                            "6979ebbcdd67beaf75fffefa"
+                        ],
+                        "solutionDescription": [
+                            {
+                                "_id": "6979ebbcdd67beaf75fffed1",
+                                "texts": {
+                                    "en": "<p>Given that -</p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>1</mn><mo>&lt;</mo><mfrac><mrow><mn>2</mn><mi>x</mi></mrow><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfrac><mo>&le;</mo><mn>4</mn></math></p>\n<p>Now -</p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>2</mn><mi>x</mi></mrow><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfrac><mo>&gt;</mo><mo>-</mo><mn>1</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo><mfrac><mrow><mn>2</mn><mi>x</mi></mrow><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfrac><mo>+</mo><mn>1</mn><mo>&gt;</mo><mn>0</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo><mfrac><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mi>x</mi><mo>-</mo><mn>1</mn></mrow><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfrac><mo>&gt;</mo><mn>0</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo><mfrac><mrow><mn>3</mn><mi>x</mi><mo>-</mo><mn>1</mn></mrow><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfrac><mo>&gt;</mo><mn>0</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo><mi>x</mi><mo>&isin;</mo><mo>(</mo><mo>-</mo><mo>&infin;</mo><mo>,</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>)</mo><mo>&cup;</mo><mo>(</mo><mn>1</mn><mo>,</mo><mo>&infin;</mo><mo>)</mo></math>&nbsp; &nbsp; &nbsp;&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>.</mo><mo>.</mo><mo>.</mo><mo>(</mo><mi>i</mi><mo>)</mo></math></p>\n<p>And -</p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>2</mn><mi>x</mi></mrow><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfrac><mo>&le;</mo><mn>4</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo><mfrac><mrow><mn>2</mn><mi>x</mi></mrow><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfrac><mo>-</mo><mn>4</mn><mo>&le;</mo><mn>0</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo><mfrac><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>4</mn><mo>(</mo><mi>x</mi><mo>-</mo><mn>1</mn><mo>)</mo></mrow><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfrac><mo>&le;</mo><mn>0</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo><mfrac><mrow><mo>-</mo><mn>2</mn><mo>(</mo><mi>x</mi><mo>-</mo><mn>2</mn><mo>)</mo></mrow><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfrac><mo>&le;</mo><mn>0</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo><mfrac><mrow><mi>x</mi><mo>-</mo><mn>2</mn></mrow><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfrac><mo>&ge;</mo><mn>0</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo><mi>x</mi><mo>&isin;</mo><mo>(</mo><mo>-</mo><mo>&infin;</mo><mo>,</mo><mn>1</mn><mo>)</mo><mo>&cup;</mo><mo>[</mo><mn>2</mn><mo>,</mo><mo>&infin;</mo><mo>)</mo></math>&nbsp; &nbsp; &nbsp; &nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>.</mo><mo>.</mo><mo>.</mo><mo>(</mo><mi>i</mi><mi>i</mi><mo>)</mo></math></p>\n<p>On taking intersection of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>i</mi><mo>)</mo></math> and&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi>i</mi><mi>i</mi><mo>)</mo></math> , we get -</p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&isin;</mo><mo>(</mo><mo>-</mo><mo>&infin;</mo><mo>,</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>)</mo><mo>&cup;</mo><mo>[</mo><mn>2</mn><mo>,</mo><mo>&infin;</mo><mo>)</mo></math></p>"
+                                },
+                                "videoType": "penpencilvdo",
+                                "videoDetails": {
+                                    "_id": "6860bfe3397cd3173f930680",
+                                    "id": "6860bfe3397cd3173f930680",
+                                    "name": "xyhgikn4dofdsft6bkr2iavp2",
+                                    "image": "",
+                                    "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/3ff6d797-1adc-410b-afe7-c41f1307446a/master.mpd",
+                                    "description": "<!DOCTYPE html><html><head></head><body><p>youtube_video/xyhgikn4dofdsft6bkr2iavp2.mp4</p>↵</body></html>",
+                                    "duration": "00:02:31",
+                                    "status": "Ready",
+                                    "types": [
+                                        "DASH",
+                                        "HLS"
+                                    ],
+                                    "createdAt": "2025-06-29T04:24:03.201Z",
+                                    "drmProtected": false,
+                                    "isZipDownloadEnabled": false,
+                                    "isCmafEnabled": false
+                                }
+                            }
+                        ],
+                        "qbgSubjectId": "19c8p297y48dy01537cxzinys",
+                        "qbgChapterId": "fz0h996oq74fudihf5m8o4m1s",
+                        "qbgTopicId": "wwook5b4g9g1n096c8lrfnep9",
+                        "qbgId": "xyhgikn4dofdsft6bkr2iavp2",
+                        "numericDecimalLimit": null,
+                        "exam": ""
+                    },
+                    {
+                        "_id": "6979ebbcdd67beaf75fffed9",
+                        "type": "Single",
+                        "questionNumber": 5,
+                        "positiveMarks": 4,
+                        "positiveMarksStr": "4",
+                        "negativeMarks": 1,
+                        "negativeMarksStr": "1",
+                        "texts": {
+                            "en": "<p>Values of \\( 'x' \\) satisfying : \\( \\frac{x^{2}+x-2}{x^{2}-x-12} \\geq 0 \\)</p>"
+                        },
+                        "options": [
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff07",
+                                "texts": {
+                                    "en": "<p>\\( x \\in(-\\infty,-3] \\cup[-2,1] \\cup[4, \\infty) \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff08",
+                                "texts": {
+                                    "en": "<p>&nbsp;\\( x \\in(-\\infty,-3) \\cup[-2,1] \\cup(4, \\infty) \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff09",
+                                "texts": {
+                                    "en": "<p>\\( x \\in(-3,4) \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff0a",
+                                "texts": {
+                                    "en": "<p>\\( x \\in(-3,-2] \\cup(4, \\infty) \\)</p>"
+                                }
+                            }
+                        ],
+                        "difficultyLevel": 2,
+                        "pyqYears": [],
+                        "topicId": {
+                            "name": "Wavy Curve Method",
+                            "_id": "rmu561e7dtc5y7foxoktibrc9"
+                        },
+                        "sectionId": "6979ebbbdd67beaf75fffeb3",
+                        "subjectId": "19c8p297y48dy01537cxzinys",
+                        "chapterId": "j5papfkg773kpwkt08xazxad7",
+                        "subTopicId": "gxic1andzjcrfur4b03qw6apu",
+                        "solutions": [
+                            "6979ebbcdd67beaf75ffff08"
+                        ],
+                        "solutionDescription": [
+                            {
+                                "_id": "6979ebbcdd67beaf75fffeda",
+                                "texts": {
+                                    "en": "<p>Given that -</p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi><mo>-</mo><mn>2</mn></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mi>x</mi><mo>-</mo><mn>12</mn></mrow></mfrac><mo>&ge;</mo><mn>0</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>-</mo><mi>x</mi><mo>-</mo><mn>2</mn></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>x</mi><mo>-</mo><mn>12</mn></mrow></mfrac><mo>&ge;</mo><mn>0</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo><mfrac><mrow><mi>x</mi><mo>(</mo><mi>x</mi><mo>+</mo><mn>2</mn><mo>)</mo><mo>-</mo><mn>1</mn><mo>(</mo><mi>x</mi><mo>+</mo><mn>2</mn><mo>)</mo></mrow><mrow><mi>x</mi><mo>(</mo><mi>x</mi><mo>-</mo><mn>4</mn><mo>)</mo><mo>+</mo><mn>3</mn><mo>(</mo><mi>x</mi><mo>-</mo><mn>4</mn><mo>)</mo></mrow></mfrac><mo>&ge;</mo><mn>0</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo><mfrac><mrow><mo>(</mo><mi>x</mi><mo>+</mo><mn>2</mn><mo>)</mo><mo>(</mo><mi>x</mi><mo>-</mo><mn>1</mn><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>-</mo><mn>4</mn><mo>)</mo><mo>(</mo><mi>x</mi><mo>+</mo><mn>3</mn><mo>)</mo></mrow></mfrac><mo>&ge;</mo><mn>0</mn></math></p>\n<p>Now -</p>\n<p>Using wavy curve metod -</p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⋯</mo><mfenced><mo>+</mo></mfenced><mo>⋯</mo><mo>⋯</mo><mo>-</mo><mn>3</mn><mo>⋯</mo><mo>⋯</mo><mfenced><mo>-</mo></mfenced><mo>⋯</mo><mo>⋯</mo><mo>⋯</mo><mo>-</mo><mn>2</mn><mo>⋯</mo><mo>⋯</mo><mfenced><mo>+</mo></mfenced><mo>⋯</mo><mo>⋯</mo><mo>⋯</mo><mn>1</mn><mo>⋯</mo><mo>⋯</mo><mo>⋯</mo><mfenced><mo>-</mo></mfenced><mo>⋯</mo><mo>⋯</mo><mo>⋯</mo><mn>4</mn><mo>⋯</mo><mo>⋯</mo><mfenced><mo>+</mo></mfenced><mo>⋯</mo><mo>⋯</mo></math></p>\n<p>And -</p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&ne;</mo><mo>-</mo><mn>3</mn><mo>,</mo><mn>4</mn></math></p>\n<p>Hence -</p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&isin;</mo><mo>(</mo><mo>-</mo><mo>&infin;</mo><mo>,</mo><mo>-</mo><mn>3</mn><mo>)</mo><mo>&cup;</mo><mo>[</mo><mo>-</mo><mn>2</mn><mo>,</mo><mn>1</mn><mo>]</mo><mo>&cup;</mo><mo>(</mo><mn>4</mn><mo>,</mo><mo>&infin;</mo><mo>)</mo></math></p>"
+                                },
+                                "videoType": "penpencilvdo",
+                                "videoDetails": {
+                                    "_id": "6860bfe2380b9eb2a5abfc23",
+                                    "id": "6860bfe2380b9eb2a5abfc23",
+                                    "name": "octrel9ndz3tye3prn72iv5m8",
+                                    "image": "",
+                                    "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/cb8666c6-b814-4fa6-bac0-768dae9c0608/master.mpd",
+                                    "description": "<!DOCTYPE html><html><head></head><body><p>youtube_video/octrel9ndz3tye3prn72iv5m8.mp4</p>↵</body></html>",
+                                    "duration": "00:02:02",
+                                    "status": "Ready",
+                                    "types": [
+                                        "DASH",
+                                        "HLS"
+                                    ],
+                                    "createdAt": "2025-06-29T04:24:02.652Z",
+                                    "drmProtected": false,
+                                    "isZipDownloadEnabled": false,
+                                    "isCmafEnabled": false
+                                }
+                            }
+                        ],
+                        "qbgSubjectId": "19c8p297y48dy01537cxzinys",
+                        "qbgChapterId": "j5papfkg773kpwkt08xazxad7",
+                        "qbgTopicId": "rmu561e7dtc5y7foxoktibrc9",
+                        "qbgId": "octrel9ndz3tye3prn72iv5m8",
+                        "numericDecimalLimit": null,
+                        "exam": ""
+                    },
+                    {
+                        "_id": "6979ebbcdd67beaf75fffec4",
+                        "type": "Single",
+                        "questionNumber": 6,
+                        "positiveMarks": 4,
+                        "positiveMarksStr": "4",
+                        "negativeMarks": 1,
+                        "negativeMarksStr": "1",
+                        "texts": {
+                            "en": "<p>Solution of \\( \\frac{2 x-3}{3 x-5} \\geq 3 \\) is:</p>"
+                        },
+                        "options": [
+                            {
+                                "_id": "6979ebbcdd67beaf75fffee4",
+                                "texts": {
+                                    "en": "<p>\\( x \\in\\left[\\frac{5}{3}, \\frac{12}{7}\\right] \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75fffee5",
+                                "texts": {
+                                    "en": "<p>\\( x \\in\\left(\\frac{5}{3}, \\frac{12}{7}\\right) \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75fffee6",
+                                "texts": {
+                                    "en": "<p>\\( x \\in\\left[\\frac{5}{3}, \\frac{12}{7}\\right) \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75fffee7",
+                                "texts": {
+                                    "en": "<p>\\( x \\in\\left(\\frac{5}{3}, \\frac{12}{7}\\right] \\)</p>"
+                                }
+                            }
+                        ],
+                        "difficultyLevel": 2,
+                        "pyqYears": [],
+                        "topicId": {
+                            "name": "Inequalities",
+                            "_id": "wwook5b4g9g1n096c8lrfnep9"
+                        },
+                        "sectionId": "6979ebbbdd67beaf75fffeb3",
+                        "subjectId": "19c8p297y48dy01537cxzinys",
+                        "chapterId": "fz0h996oq74fudihf5m8o4m1s",
+                        "subTopicId": "n6dhkwxe6kvoa8sb1wq03mrb2",
+                        "solutions": [
+                            "6979ebbcdd67beaf75fffee7"
+                        ],
+                        "solutionDescription": [
+                            {
+                                "_id": "6979ebbcdd67beaf75fffec5",
+                                "texts": {
+                                    "en": "<p>Given that -</p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn></mrow><mrow><mn>3</mn><mi>x</mi><mo>-</mo><mn>5</mn></mrow></mfrac><mo>&ge;</mo><mn>3</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo><mfrac><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn></mrow><mrow><mn>3</mn><mi>x</mi><mo>-</mo><mn>5</mn></mrow></mfrac><mo>-</mo><mn>3</mn><mo>&ge;</mo><mn>0</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo><mfrac><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn><mo>-</mo><mn>3</mn><mo>(</mo><mn>3</mn><mi>x</mi><mo>-</mo><mn>5</mn><mo>)</mo></mrow><mrow><mn>3</mn><mi>x</mi><mo>-</mo><mn>5</mn></mrow></mfrac><mo>&ge;</mo><mn>0</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo><mfrac><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn><mo>-</mo><mn>9</mn><mi>x</mi><mo>+</mo><mn>15</mn></mrow><mrow><mn>3</mn><mi>x</mi><mo>-</mo><mn>5</mn></mrow></mfrac><mo>&ge;</mo><mn>0</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo><mfrac><mrow><mo>-</mo><mn>7</mn><mi>x</mi><mo>+</mo><mn>12</mn></mrow><mrow><mn>3</mn><mi>x</mi><mo>-</mo><mn>5</mn></mrow></mfrac><mo>&ge;</mo><mn>0</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo><mfrac><mrow><mn>7</mn><mi>x</mi><mo>-</mo><mn>12</mn></mrow><mrow><mn>3</mn><mi>x</mi><mo>-</mo><mn>5</mn></mrow></mfrac><mo>&le;</mo><mn>0</mn></math></p>\n<p>Now -</p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mi>x</mi><mo>-</mo><mn>5</mn><mo>&ne;</mo><mn>0</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo><mi>x</mi><mo>&ne;</mo><mfrac><mn>5</mn><mn>3</mn></mfrac></math></p>\n<p>Hence , using the number line ,</p>\n<p><img title=\"Screenshot 2025-05-26 134904.png\" src=\"https://static.pw.live/5eb393ee95fab7468a79d189/QBG/bbf08d2f-ebce-4ca5-ae02-2c0b371bb874.png\" alt=\"\" width=\"345\" height=\"44\" /></p>\n<p>we will get - <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&isin;</mo><mo>(</mo><mfrac><mn>5</mn><mn>3</mn></mfrac><mo>,</mo><mfrac><mn>12</mn><mn>7</mn></mfrac><mo>]</mo></math></p>"
+                                },
+                                "videoType": "penpencilvdo",
+                                "videoDetails": {
+                                    "_id": "6860bfe381360c147380524f",
+                                    "id": "6860bfe381360c147380524f",
+                                    "name": "fo2j37z8g0syaa7ggpb5r6m10",
+                                    "image": "",
+                                    "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/548d800d-2042-4c1f-b42e-5a259b68778e/master.mpd",
+                                    "description": "<!DOCTYPE html><html><head></head><body><p>youtube_video/fo2j37z8g0syaa7ggpb5r6m10.mp4</p>↵</body></html>",
+                                    "duration": "00:01:29",
+                                    "status": "Ready",
+                                    "types": [
+                                        "DASH",
+                                        "HLS"
+                                    ],
+                                    "createdAt": "2025-06-29T04:24:03.109Z",
+                                    "drmProtected": false,
+                                    "isZipDownloadEnabled": false,
+                                    "isCmafEnabled": false
+                                }
+                            }
+                        ],
+                        "qbgSubjectId": "19c8p297y48dy01537cxzinys",
+                        "qbgChapterId": "fz0h996oq74fudihf5m8o4m1s",
+                        "qbgTopicId": "wwook5b4g9g1n096c8lrfnep9",
+                        "qbgId": "fo2j37z8g0syaa7ggpb5r6m10",
+                        "numericDecimalLimit": null,
+                        "exam": ""
+                    },
+                    {
+                        "_id": "6979ebbcdd67beaf75fffed3",
+                        "type": "Single",
+                        "questionNumber": 7,
+                        "positiveMarks": 4,
+                        "positiveMarksStr": "4",
+                        "negativeMarks": 1,
+                        "negativeMarksStr": "1",
+                        "texts": {
+                            "en": "<p>Solution of \\( \\frac{x^{4}(x+1)^{2}(x-2)}{(x-3)^{3}(x+4)}&gt;0 \\) is</p>"
+                        },
+                        "options": [
+                            {
+                                "_id": "6979ebbcdd67beaf75fffefd",
+                                "texts": {
+                                    "en": "<p>\\( x \\in(-4, 2) \\cup(4, \\infty) \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75fffefe",
+                                "texts": {
+                                    "en": "<p>\\( x \\in(-4,-1) \\cup(-1,2) \\cup(3, \\infty) \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75fffeff",
+                                "texts": {
+                                    "en": "<p>\\( x \\in(-4,0) \\cup(0,2) \\cup(3, \\infty) \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff00",
+                                "texts": {
+                                    "en": "<p>\\( x \\in(-4,-1) \\cup(-1,0) \\cup(0,2) \\cup(3, \\infty) \\)</p>"
+                                }
+                            }
+                        ],
+                        "difficultyLevel": 2,
+                        "pyqYears": [],
+                        "topicId": {
+                            "name": "Inequalities",
+                            "_id": "wwook5b4g9g1n096c8lrfnep9"
+                        },
+                        "sectionId": "6979ebbbdd67beaf75fffeb3",
+                        "subjectId": "19c8p297y48dy01537cxzinys",
+                        "chapterId": "fz0h996oq74fudihf5m8o4m1s",
+                        "subTopicId": "n6dhkwxe6kvoa8sb1wq03mrb2",
+                        "solutions": [
+                            "6979ebbcdd67beaf75ffff00"
+                        ],
+                        "solutionDescription": [
+                            {
+                                "_id": "6979ebbcdd67beaf75fffed4",
+                                "texts": {
+                                    "en": "<p>Given inequality:&nbsp; <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msup><mi>x</mi><mn>4</mn></msup><msup><mfenced><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mn>2</mn></msup><mfenced><mrow><mi>x</mi><mo>-</mo><mn>2</mn></mrow></mfenced></mrow><mrow><msup><mfenced><mrow><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfenced><mn>3</mn></msup><mfenced><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow></mfenced></mrow></mfrac><mo>&gt;</mo><mn>0</mn><mspace linebreak=\"newline\"></mspace></math></p>\n<p>we have to find the solution of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math></p>\n<p>Now,</p>\n<p>we have to find the critical points:</p>\n<p>1. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>0</mn><mspace linebreak=\"newline\"></mspace></math>&nbsp; 2. <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn><mspace linebreak=\"newline\"></mspace><mi>x</mi><mo>=</mo><mo>-</mo><mn>1</mn></math> 3.&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>-</mo><mn>2</mn><mo>=</mo><mn>0</mn><mspace linebreak=\"newline\"></mspace><mi>x</mi><mo>=</mo><mn>2</mn></math>&nbsp;4.<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>-</mo><mn>3</mn><mo>&ne;</mo><mn>0</mn><mspace linebreak=\"newline\"></mspace><mi>x</mi><mo>&ne;</mo><mn>3</mn></math> 5.&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>+</mo><mn>4</mn><mo>&ne;</mo><mn>0</mn><mspace linebreak=\"newline\"></mspace><mi>x</mi><mo>&ne;</mo><mo>-</mo><mn>4</mn></math></p>\n<p>Sice, the critical points are:&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn><mo>,</mo><mo>-</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo>,</mo><mo>-</mo><mn>4</mn></math></p>\n<p>Now, By using table range diagram ,we need range of values that satisfies the inequality.</p>\n<p>Therefore,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&isin;</mo><mo>(</mo><mo>-</mo><mn>4</mn><mo>,</mo><mn>2</mn><mo>)</mo><mo>&cup;</mo><mfenced><mrow><mn>3</mn><mo>,</mo><mo>&infin;</mo></mrow></mfenced><mo>-</mo><mfenced open=\"{\" close=\"}\"><mrow><mo>-</mo><mn>1</mn><mo>,</mo><mn>0</mn></mrow></mfenced></math></p>\n<p>Hence, the solution of&nbsp; &nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msup><mi>x</mi><mn>4</mn></msup><msup><mfenced><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mn>2</mn></msup><mfenced><mrow><mi>x</mi><mo>-</mo><mn>2</mn></mrow></mfenced></mrow><mrow><msup><mfenced><mrow><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfenced><mn>3</mn></msup><mfenced><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow></mfenced></mrow></mfrac><mo>&gt;</mo><mn>0</mn><mspace linebreak=\"newline\"></mspace></math>&nbsp;is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&isin;</mo><mo>(</mo><mo>-</mo><mn>4</mn><mo>,</mo><mo>-</mo><mn>1</mn><mo>)</mo><mo>&cup;</mo><mfenced><mrow><mo>-</mo><mn>1</mn><mo>,</mo><mn>0</mn></mrow></mfenced><mo>&cup;</mo><mfenced><mrow><mn>0</mn><mo>,</mo><mn>2</mn></mrow></mfenced><mo>&cup;</mo><mfenced><mrow><mn>3</mn><mo>,</mo><mo>&infin;</mo></mrow></mfenced></math>.</p>"
+                                },
+                                "videoType": "penpencilvdo",
+                                "videoDetails": {
+                                    "_id": "6860bfe34c8cca85bf47bae7",
+                                    "id": "6860bfe34c8cca85bf47bae7",
+                                    "name": "wbo40ysoc0x8ovled2jxwr89j",
+                                    "image": "",
+                                    "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/54407ff1-c204-466f-929f-fcb54a2c8152/master.mpd",
+                                    "description": "<!DOCTYPE html><html><head></head><body><p>youtube_video/wbo40ysoc0x8ovled2jxwr89j.mp4</p>↵</body></html>",
+                                    "duration": "00:01:58",
+                                    "status": "Ready",
+                                    "types": [
+                                        "DASH",
+                                        "HLS"
+                                    ],
+                                    "createdAt": "2025-06-29T04:24:03.395Z",
+                                    "drmProtected": false,
+                                    "isZipDownloadEnabled": false,
+                                    "isCmafEnabled": false
+                                }
+                            }
+                        ],
+                        "qbgSubjectId": "19c8p297y48dy01537cxzinys",
+                        "qbgChapterId": "fz0h996oq74fudihf5m8o4m1s",
+                        "qbgTopicId": "wwook5b4g9g1n096c8lrfnep9",
+                        "qbgId": "wbo40ysoc0x8ovled2jxwr89j",
+                        "numericDecimalLimit": null,
+                        "exam": ""
+                    },
+                    {
+                        "_id": "6979ebbcdd67beaf75fffeca",
+                        "type": "Single",
+                        "questionNumber": 8,
+                        "positiveMarks": 4,
+                        "positiveMarksStr": "4",
+                        "negativeMarks": 1,
+                        "negativeMarksStr": "1",
+                        "texts": {
+                            "en": "<p>Complete solution set of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mfenced><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfenced><mfenced><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>&#8722;</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced></mrow><mrow><mo>&#8722;</mo><mn>4</mn><mo>+</mo><mn>3</mn><mi>x</mi><mo>&#8722;</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></mfrac><mo>&#8805;</mo><mn>0</mn><mo>,</mo></math> is</p>"
+                        },
+                        "options": [
+                            {
+                                "_id": "6979ebbcdd67beaf75fffeee",
+                                "texts": {
+                                    "en": "<p>\\( x \\in(-\\infty,-2] \\cup\\{1\\} \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75fffeef",
+                                "texts": {
+                                    "en": "<p>\\( x \\in(-\\infty,-2] \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75fffef0",
+                                "texts": {
+                                    "en": "<p>\\( x \\in(-\\infty,-3] \\cup\\{1\\} \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75fffef1",
+                                "texts": {
+                                    "en": "<p>\\( x \\in(-\\infty,-1] \\cup\\{2\\} \\)</p>"
+                                }
+                            }
+                        ],
+                        "difficultyLevel": 2,
+                        "pyqYears": [],
+                        "topicId": {
+                            "name": "Wavy Curve Method",
+                            "_id": "rmu561e7dtc5y7foxoktibrc9"
+                        },
+                        "sectionId": "6979ebbbdd67beaf75fffeb3",
+                        "subjectId": "19c8p297y48dy01537cxzinys",
+                        "chapterId": "j5papfkg773kpwkt08xazxad7",
+                        "subTopicId": "gxic1andzjcrfur4b03qw6apu",
+                        "solutions": [
+                            "6979ebbcdd67beaf75fffeee"
+                        ],
+                        "solutionDescription": [
+                            {
+                                "_id": "6979ebbcdd67beaf75fffecb",
+                                "texts": {
+                                    "en": "<p>Given inequality:&nbsp; <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mfenced><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfenced><mfenced><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced></mrow><mrow><mo>-</mo><mn>4</mn><mo>+</mo><mn>3</mn><mi>x</mi><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></mfrac><mo>&#8805;</mo><mn>0</mn><mspace linebreak=\"newline\"></mspace></math></p>\n<p>we have to find the solution of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math></p>\n<p>and,</p>\n<p>we have to find the discriminant</p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>4</mn><mo>+</mo><mn>3</mn><mi>x</mi><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup><mspace linebreak=\"newline\"></mspace><mi>a</mi><mo>=</mo><mo>-</mo><mn>1</mn><mo>,</mo><mo>&#160;</mo><mi>b</mi><mo>=</mo><mn>3</mn><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>,</mo><mo>&#160;</mo><mi>c</mi><mo>=</mo><mo>-</mo><mn>4</mn><mspace linebreak=\"newline\"></mspace><mi>D</mi><mo>=</mo><msup><mi>b</mi><mn>2</mn></msup><mo>-</mo><mn>4</mn><mi>a</mi><mi>c</mi><mspace linebreak=\"newline\"></mspace><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>=</mo><msup><mfenced><mn>3</mn></mfenced><mn>2</mn></msup><mo>-</mo><mn>4</mn><mfenced><mrow><mo>-</mo><mn>1</mn></mrow></mfenced><mfenced><mrow><mo>-</mo><mn>4</mn></mrow></mfenced><mspace linebreak=\"newline\"></mspace><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>=</mo><mn>9</mn><mo>-</mo><mn>16</mn><mspace linebreak=\"newline\"></mspace><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#8658;</mo><mo>-</mo><mn>7</mn><mo>&#60;</mo><mn>0</mn></math></p>\n<p>It is always possible.</p>\n<p>Now,</p>\n<p>We have find the critical point&nbsp;</p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfenced><mfenced><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced><mo>&#8804;</mo><mn>0</mn><mspace linebreak=\"newline\"></mspace><mfenced><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfenced><msup><mfenced><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mn>2</mn></msup><mo>&#8804;</mo><mn>0</mn><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><mi>x</mi><mo>+</mo><mn>2</mn><mo>=</mo><mn>0</mn><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>,</mo><mi>x</mi><mo>-</mo><mn>1</mn><mo>=</mo><mn>0</mn><mspace linebreak=\"newline\"></mspace><mo>&#8658;</mo><mi>x</mi><mo>=</mo><mo>-</mo><mn>2</mn><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mo>&#160;</mo><mi>x</mi><mo>=</mo><mn>1</mn></math></p>\n<p>Sice, the critical points are:&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>2</mn></math> and 1.</p>\n<p>Now, By using table range diagram ,we need range of values that satisfies the inequality.</p>\n<p>Therefore,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mo>(</mo><mo>-</mo><mo>&#8734;</mo><mo>,</mo><mo>-</mo><mn>2</mn><mo>]</mo><mo>&#8746;</mo><mo>-</mo><mfenced open=\"{\" close=\"}\"><mn>1</mn></mfenced></math></p>\n<p>Hence, the solution of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mfenced><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow></mfenced><mfenced><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfenced></mrow><mrow><mo>-</mo><mn>4</mn><mo>+</mo><mn>3</mn><mi>x</mi><mo>-</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></mfrac><mo>&#8805;</mo><mn>0</mn></math>&nbsp;is&nbsp; <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&#8712;</mo><mo>(</mo><mo>-</mo><mo>&#8734;</mo><mo>,</mo><mo>-</mo><mn>2</mn><mo>]</mo><mo>&#8746;</mo><mo>-</mo><mfenced open=\"{\" close=\"}\"><mn>1</mn></mfenced></math>.</p>"
+                                },
+                                "videoType": "penpencilvdo",
+                                "videoDetails": {
+                                    "_id": "682bfd42d9383546c18f8a9b",
+                                    "id": "682bfd42d9383546c18f8a9b",
+                                    "name": "Q-62.mp4",
+                                    "image": "",
+                                    "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/139b2476-badd-46e3-8379-1f22c5232802/master.mpd",
+                                    "duration": "00:04:12",
+                                    "status": "Ready",
+                                    "types": [
+                                        "DASH",
+                                        "HLS"
+                                    ],
+                                    "createdAt": "2025-05-20T03:55:50.756Z",
+                                    "drmProtected": false
+                                }
+                            }
+                        ],
+                        "qbgSubjectId": "19c8p297y48dy01537cxzinys",
+                        "qbgChapterId": "j5papfkg773kpwkt08xazxad7",
+                        "qbgTopicId": "rmu561e7dtc5y7foxoktibrc9",
+                        "qbgId": "4r9lgsg5on9b5nzz5dwekmg2s",
+                        "numericDecimalLimit": null,
+                        "exam": ""
+                    },
+                    {
+                        "_id": "6979ebbcdd67beaf75fffedc",
+                        "type": "Single",
+                        "questionNumber": 9,
+                        "positiveMarks": 4,
+                        "positiveMarksStr": "4",
+                        "negativeMarks": 1,
+                        "negativeMarksStr": "1",
+                        "texts": {
+                            "en": "<p>The complete solution set of the inequality</p>\n<p>&nbsp;\\( \\frac{x^{4}-3 x^{3}+2 x^{2}}{x^{2}-x-30} \\geq 0 \\)</p>"
+                        },
+                        "options": [
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff12",
+                                "texts": {
+                                    "en": "<p>&nbsp;\\( (-\\infty,-5) \\cup(1,2) \\cup(6, \\infty) \\cup\\{0\\} \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff13",
+                                "texts": {
+                                    "en": "<p>\\( \\quad(-\\infty,-5) \\cup[1,2] \\cup(6, \\infty) \\cup\\{0\\} \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff14",
+                                "texts": {
+                                    "en": "<p>\\( (-\\infty,-5) \\cup[1,2] \\cup[6, \\infty) \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff15",
+                                "texts": {
+                                    "en": "<p>&nbsp;None of these</p>"
+                                }
+                            }
+                        ],
+                        "difficultyLevel": 2,
+                        "pyqYears": [],
+                        "topicId": {
+                            "name": "Wavy Curve Method",
+                            "_id": "rmu561e7dtc5y7foxoktibrc9"
+                        },
+                        "sectionId": "6979ebbbdd67beaf75fffeb3",
+                        "subjectId": "19c8p297y48dy01537cxzinys",
+                        "chapterId": "j5papfkg773kpwkt08xazxad7",
+                        "subTopicId": "gxic1andzjcrfur4b03qw6apu",
+                        "solutions": [
+                            "6979ebbcdd67beaf75ffff13"
+                        ],
+                        "solutionDescription": [
+                            {
+                                "_id": "6979ebbcdd67beaf75fffedd",
+                                "videoType": "penpencilvdo",
+                                "videoDetails": {
+                                    "_id": "6860bfe366e2e389b6b9ea5f",
+                                    "id": "6860bfe366e2e389b6b9ea5f",
+                                    "name": "zlkws5ihvhgpkpslfmswwt5lj",
+                                    "image": "",
+                                    "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/97885937-d78d-400a-80eb-40651aed9775/master.mpd",
+                                    "description": "<!DOCTYPE html><html><head></head><body><p>youtube_video/zlkws5ihvhgpkpslfmswwt5lj.mp4</p>↵</body></html>",
+                                    "duration": "00:02:01",
+                                    "status": "Ready",
+                                    "types": [
+                                        "DASH",
+                                        "HLS"
+                                    ],
+                                    "createdAt": "2025-06-29T04:24:03.505Z",
+                                    "drmProtected": false,
+                                    "isZipDownloadEnabled": false,
+                                    "isCmafEnabled": false
+                                }
+                            }
+                        ],
+                        "qbgSubjectId": "19c8p297y48dy01537cxzinys",
+                        "qbgChapterId": "j5papfkg773kpwkt08xazxad7",
+                        "qbgTopicId": "rmu561e7dtc5y7foxoktibrc9",
+                        "qbgId": "zlkws5ihvhgpkpslfmswwt5lj",
+                        "numericDecimalLimit": null,
+                        "exam": ""
+                    },
+                    {
+                        "_id": "6979ebbcdd67beaf75fffec7",
+                        "type": "Single",
+                        "questionNumber": 10,
+                        "positiveMarks": 4,
+                        "positiveMarksStr": "4",
+                        "negativeMarks": 1,
+                        "negativeMarksStr": "1",
+                        "texts": {
+                            "en": "<p>Solution of inequality: \\( 2 x^{2}-2 x-1&lt;0 \\)</p>"
+                        },
+                        "options": [
+                            {
+                                "_id": "6979ebbcdd67beaf75fffee9",
+                                "texts": {
+                                    "en": "<p>\\( x \\in\\left(\\frac{1-\\sqrt{3}}{2}, \\frac{1+\\sqrt{3}}{2}\\right) \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75fffeea",
+                                "texts": {
+                                    "en": "<p>\\( x \\in\\left[\\frac{1-\\sqrt{3}}{2}, \\frac{1+\\sqrt{3}}{2}\\right] \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75fffeeb",
+                                "texts": {
+                                    "en": "<p>\\( x \\in\\left(-\\infty, \\frac{1-\\sqrt{3}}{2}\\right) \\cup\\left(\\frac{1+\\sqrt{3}}{2}, \\infty\\right) \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75fffeec",
+                                "texts": {
+                                    "en": "<p>\\( x \\in(-1,2) \\)</p>"
+                                }
+                            }
+                        ],
+                        "difficultyLevel": 2,
+                        "pyqYears": [],
+                        "topicId": {
+                            "name": "Quadratic Equation",
+                            "_id": "upp9kh2bcovgrp51h4kxsq3y1"
+                        },
+                        "sectionId": "6979ebbbdd67beaf75fffeb3",
+                        "subjectId": "19c8p297y48dy01537cxzinys",
+                        "chapterId": "73ulm8ow5ghud5xw8alehsdyh",
+                        "subTopicId": "lib81s8vpg2741ia9jg7dytmi",
+                        "solutions": [
+                            "6979ebbcdd67beaf75fffee9"
+                        ],
+                        "solutionDescription": [
+                            {
+                                "_id": "6979ebbcdd67beaf75fffec8",
+                                "texts": {
+                                    "en": "<p>We have given quadratic inequation: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>2</mn><mi>x</mi><mo>-</mo><mn>1</mn><mo>&lt;</mo><mn>0</mn></math> .</p>\n<p>we have to find the value of&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math> .</p>\n<p>Now,</p>\n<p>Solve the quadratic:</p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>2</mn><mi>x</mi><mo>-</mo><mn>1</mn><mo>&lt;</mo><mn>0</mn><mspace linebreak=\"newline\"></mspace><mi>x</mi><mo>=</mo><mfrac><mrow><mo>-</mo><mi>b</mi><mo>&plusmn;</mo><msqrt><msup><mi>b</mi><mn>2</mn></msup><mo>-</mo><mn>4</mn><mi>a</mi><mi>c</mi></msqrt></mrow><mrow><mn>2</mn><mi>a</mi></mrow></mfrac><mspace linebreak=\"newline\"></mspace><mi>x</mi><mo>=</mo><mfrac><mrow><mo>-</mo><mo>(</mo><mo>-</mo><mn>2</mn><mo>)</mo><mo>&plusmn;</mo><msqrt><msup><mrow><mo>(</mo><mo>-</mo><mn>2</mn><mo>)</mo></mrow><mn>2</mn></msup><mo>-</mo><mn>4</mn><mo>(</mo><mn>2</mn><mo>)</mo><mo>(</mo><mo>-</mo><mn>1</mn><mo>)</mo></msqrt></mrow><mrow><mn>2</mn><mo>(</mo><mn>2</mn><mo>)</mo></mrow></mfrac><mspace linebreak=\"newline\"></mspace><mi>x</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mo>&plusmn;</mo><msqrt><mn>12</mn></msqrt></mrow><mn>4</mn></mfrac><mspace linebreak=\"newline\"></mspace><mi>x</mi><mo>=</mo><mfrac><mrow><mn>2</mn><mo>&plusmn;</mo><mn>2</mn><msqrt><mn>3</mn></msqrt></mrow><mn>4</mn></mfrac><mspace linebreak=\"newline\"></mspace><mi>x</mi><mo>=</mo><mfrac><mrow><mn>1</mn><mo>&plusmn;</mo><msqrt><mn>3</mn></msqrt></mrow><mn>2</mn></mfrac><mspace linebreak=\"newline\"></mspace><mfenced open=\"[\" close=\"]\"><mrow><mi>x</mi><mo>-</mo><mfenced><mfrac><mrow><msqrt><mn>3</mn></msqrt><mo>+</mo><mn>1</mn></mrow><mn>2</mn></mfrac></mfenced></mrow></mfenced><mo>&nbsp;</mo><mfenced open=\"[\" close=\"]\"><mrow><mi>x</mi><mo>+</mo><mfenced><mfrac><mrow><msqrt><mn>3</mn></msqrt><mo>-</mo><mn>1</mn></mrow><mn>2</mn></mfrac></mfenced></mrow></mfenced><mo>&lt;</mo><mn>0</mn></math></p>\n<p>By using table range diagram ,we need range of values that satisfies the inequality.</p>\n<p>Therefore,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&isin;</mo><mfenced><mrow><mfrac><mrow><mn>1</mn><mo>&ndash;</mo><msqrt><mn>3</mn></msqrt></mrow><mn>2</mn></mfrac><mo>,</mo><mfrac><mrow><msqrt><mn>3</mn></msqrt><mo>+</mo><mn>1</mn></mrow><mn>2</mn></mfrac></mrow></mfenced></math>.&nbsp; &nbsp; &nbsp;</p>\n<p>Hence, the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>2</mn><mi>x</mi><mo>-</mo><mn>1</mn><mo>&lt;</mo><mn>0</mn></math> is&nbsp; <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&isin;</mo><mfenced><mrow><mfrac><mrow><mn>1</mn><mo>&ndash;</mo><msqrt><mn>3</mn></msqrt></mrow><mn>2</mn></mfrac><mo>,</mo><mfrac><mrow><msqrt><mn>3</mn></msqrt><mo>+</mo><mn>1</mn></mrow><mn>2</mn></mfrac></mrow></mfenced></math>. &nbsp; &nbsp;&nbsp;</p>"
+                                },
+                                "videoType": "penpencilvdo",
+                                "videoDetails": {
+                                    "_id": "6860bfe3227747c786bb22b8",
+                                    "id": "6860bfe3227747c786bb22b8",
+                                    "name": "1qqoqn4qm3rujd130yiyfrgps",
+                                    "image": "",
+                                    "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/faa3f1e7-9d66-4714-a7d5-da606105882f/master.mpd",
+                                    "description": "<!DOCTYPE html><html><head></head><body><p>youtube_output/chunk_42/1qqoqn4qm3rujd130yiyfrgps.mp4</p>↵</body></html>",
+                                    "duration": "00:01:35",
+                                    "status": "Ready",
+                                    "types": [
+                                        "DASH",
+                                        "HLS"
+                                    ],
+                                    "createdAt": "2025-06-29T04:24:03.575Z",
+                                    "drmProtected": false,
+                                    "isZipDownloadEnabled": false,
+                                    "isCmafEnabled": false
+                                }
+                            }
+                        ],
+                        "qbgSubjectId": "19c8p297y48dy01537cxzinys",
+                        "qbgChapterId": "73ulm8ow5ghud5xw8alehsdyh",
+                        "qbgTopicId": "upp9kh2bcovgrp51h4kxsq3y1",
+                        "qbgId": "1qqoqn4qm3rujd130yiyfrgps",
+                        "numericDecimalLimit": null,
+                        "exam": ""
+                    },
+                    {
+                        "_id": "6979ebbcdd67beaf75ffff1f",
+                        "type": "Single",
+                        "questionNumber": 11,
+                        "positiveMarks": 4,
+                        "positiveMarksStr": "4",
+                        "negativeMarks": 1,
+                        "negativeMarksStr": "1",
+                        "texts": {
+                            "en": "<p>Complete set of values of \\( 'x' \\) satisfying: \\(\\frac{(\\mathrm{x}-1)\\left(\\mathrm{x}^{2}-\\mathrm{x}+12\\right)}{\\left(3+\\mathrm{x}^{2}\\right)} \\leq 0\\)</p>"
+                        },
+                        "options": [
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff28",
+                                "texts": {
+                                    "en": "<p>\\( x \\geq 1 \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff29",
+                                "texts": {
+                                    "en": "<p>\\( \\mathrm{x} \\in(-\\infty,-3] \\cup(-\\sqrt{3}, 1] \\cup(\\sqrt{3}, 4] \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff2a",
+                                "texts": {
+                                    "en": "<p>&nbsp;\\( \\mathrm{x} \\in(-\\infty,-3] \\cup[1,4] \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff2b",
+                                "texts": {
+                                    "en": "<p>\\( \\mathrm{x} \\leq 1 \\)</p>"
+                                }
+                            }
+                        ],
+                        "difficultyLevel": 1,
+                        "pyqYears": [],
+                        "topicId": {
+                            "name": "Wavy Curve Method",
+                            "_id": "rmu561e7dtc5y7foxoktibrc9"
+                        },
+                        "sectionId": "6979ebbbdd67beaf75fffeb3",
+                        "subjectId": "19c8p297y48dy01537cxzinys",
+                        "chapterId": "j5papfkg773kpwkt08xazxad7",
+                        "subTopicId": "gxic1andzjcrfur4b03qw6apu",
+                        "solutions": [
+                            "6979ebbcdd67beaf75ffff2b"
+                        ],
+                        "solutionDescription": [
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff20",
+                                "videoType": "penpencilvdo",
+                                "videoDetails": {
+                                    "_id": "6860bfe4abc474aaf09ec0d6",
+                                    "id": "6860bfe4abc474aaf09ec0d6",
+                                    "name": "mwwvffyo8p8ta4qxdw834dbmd",
+                                    "image": "",
+                                    "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/3c2cb217-8dca-406a-9915-5cc39ac9a0b5/master.mpd",
+                                    "description": "<!DOCTYPE html><html><head></head><body><p>youtube_video/mwwvffyo8p8ta4qxdw834dbmd.mp4</p>↵</body></html>",
+                                    "duration": "00:01:21",
+                                    "status": "Ready",
+                                    "types": [
+                                        "DASH",
+                                        "HLS"
+                                    ],
+                                    "createdAt": "2025-06-29T04:24:04.050Z",
+                                    "drmProtected": false,
+                                    "isZipDownloadEnabled": false,
+                                    "isCmafEnabled": false
+                                }
+                            }
+                        ],
+                        "qbgSubjectId": "19c8p297y48dy01537cxzinys",
+                        "qbgChapterId": "j5papfkg773kpwkt08xazxad7",
+                        "qbgTopicId": "rmu561e7dtc5y7foxoktibrc9",
+                        "qbgId": "mwwvffyo8p8ta4qxdw834dbmd",
+                        "numericDecimalLimit": null,
+                        "exam": ""
+                    },
+                    {
+                        "_id": "6979ebbcdd67beaf75ffff25",
+                        "type": "Single",
+                        "questionNumber": 12,
+                        "positiveMarks": 4,
+                        "positiveMarksStr": "4",
+                        "negativeMarks": 1,
+                        "negativeMarksStr": "1",
+                        "texts": {
+                            "en": "<p>Solution of inequality \\( -5&lt;x+3 \\leq 9 \\)</p>"
+                        },
+                        "options": [
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff33",
+                                "texts": {
+                                    "en": "<p>\\( x \\in[-8,6) \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff34",
+                                "texts": {
+                                    "en": "<p>\\( x \\in(-8,6] \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff35",
+                                "texts": {
+                                    "en": "<p>\\( x \\in(-2,6] \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff36",
+                                "texts": {
+                                    "en": "<p>\\( x \\in(-8,6) \\)</p>"
+                                }
+                            }
+                        ],
+                        "difficultyLevel": 1,
+                        "pyqYears": [],
+                        "topicId": {
+                            "name": "Algebraic Solutions of Linear Inequalities in One Variable and their Representation on the Number Line",
+                            "_id": "1mbupijz9e4mt5y6ru7rlbi44"
+                        },
+                        "sectionId": "6979ebbbdd67beaf75fffeb3",
+                        "subjectId": "19c8p297y48dy01537cxzinys",
+                        "chapterId": "fz0h996oq74fudihf5m8o4m1s",
+                        "subTopicId": "4h40dvoy1bbqmwmi4bk9j1405",
+                        "solutions": [
+                            "6979ebbcdd67beaf75ffff34"
+                        ],
+                        "solutionDescription": [
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff26",
+                                "texts": {
+                                    "en": "<p>Given,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>5</mn><mo>&lt;</mo><mi>x</mi><mo>+</mo><mn>3</mn><mo>&le;</mo><mn>9</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>5</mn><mo>-</mo><mn>3</mn><mo>&lt;</mo><mi>x</mi><mo>+</mo><mn>3</mn><mo>-</mo><mn>3</mn><mo>&le;</mo><mn>9</mn><mo>-</mo><mn>3</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo><mn>8</mn><mo>&lt;</mo><mi>x</mi><mo>&le;</mo><mn>6</mn></math></p>\n<p>Hence,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&isin;</mo><mo>(</mo><mo>-</mo><mn>8</mn><mo>,</mo><mn>6</mn><mo>]</mo></math></p>"
+                                },
+                                "videoType": "penpencilvdo",
+                                "videoDetails": {
+                                    "_id": "6860bfe558501800f35d1905",
+                                    "id": "6860bfe558501800f35d1905",
+                                    "name": "m7mzm48lzhlcqdj4x5s1t2tav",
+                                    "image": "",
+                                    "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/c04c8481-b1cb-4cd9-ba0e-097294ca73bd/master.mpd",
+                                    "description": "<!DOCTYPE html><html><head></head><body><p>youtube_video/m7mzm48lzhlcqdj4x5s1t2tav.mp4</p>↵</body></html>",
+                                    "duration": "00:00:36",
+                                    "status": "Ready",
+                                    "types": [
+                                        "DASH",
+                                        "HLS"
+                                    ],
+                                    "createdAt": "2025-06-29T04:24:05.194Z",
+                                    "drmProtected": false,
+                                    "isZipDownloadEnabled": false,
+                                    "isCmafEnabled": false
+                                }
+                            }
+                        ],
+                        "qbgSubjectId": "19c8p297y48dy01537cxzinys",
+                        "qbgChapterId": "fz0h996oq74fudihf5m8o4m1s",
+                        "qbgTopicId": "1mbupijz9e4mt5y6ru7rlbi44",
+                        "qbgId": "m7mzm48lzhlcqdj4x5s1t2tav",
+                        "numericDecimalLimit": null,
+                        "exam": ""
+                    },
+                    {
+                        "_id": "6979ebbcdd67beaf75ffff22",
+                        "type": "Single",
+                        "questionNumber": 13,
+                        "positiveMarks": 4,
+                        "positiveMarksStr": "4",
+                        "negativeMarks": 1,
+                        "negativeMarksStr": "1",
+                        "texts": {
+                            "en": "<p>Complete set of values of '\\( x \\)' satisfying: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mo>(</mo><mi>x</mi><mo>-</mo><mn>1</mn><msup><mo>)</mo><mn>15</mn></msup><msup><mi>x</mi><mn>28</mn></msup></mrow><mrow><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><msup><mo>)</mo><mn>2021</mn></msup><mo>(</mo><mi>x</mi><mo>+</mo><mn>2</mn><msup><mo>)</mo><mn>2020</mn></msup></mrow></mfrac><mo>&#8805;</mo><mn>0</mn></math></p>"
+                        },
+                        "options": [
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff2d",
+                                "texts": {
+                                    "en": "<p>\\( x \\in(-\\infty,-1) \\cup[1, \\infty) \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff2e",
+                                "texts": {
+                                    "en": "<p>\\( x \\in(-1,1]-\\{0\\} \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff2f",
+                                "texts": {
+                                    "en": "<p>\\( x \\in(-\\infty,-2] \\cup(0, \\infty) \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff30",
+                                "texts": {
+                                    "en": "<p>\\( x \\in(-\\infty,-2) \\cup(-2,-1) \\cup[1, \\infty) \\cup\\{0\\} \\)</p>"
+                                }
+                            }
+                        ],
+                        "difficultyLevel": 2,
+                        "pyqYears": [],
+                        "topicId": {
+                            "name": "Wavy Curve Method",
+                            "_id": "rmu561e7dtc5y7foxoktibrc9"
+                        },
+                        "sectionId": "6979ebbbdd67beaf75fffeb3",
+                        "subjectId": "19c8p297y48dy01537cxzinys",
+                        "chapterId": "j5papfkg773kpwkt08xazxad7",
+                        "subTopicId": "gxic1andzjcrfur4b03qw6apu",
+                        "solutions": [
+                            "6979ebbcdd67beaf75ffff30"
+                        ],
+                        "solutionDescription": [
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff23",
+                                "videoType": "penpencilvdo",
+                                "videoDetails": {
+                                    "_id": "66a1e4d8fea08a00185db29f",
+                                    "id": "66a1e4d8fea08a00185db29f",
+                                    "name": "BM 65 rev.mp4",
+                                    "image": "",
+                                    "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/8231ed49-b47b-42d3-bfb3-47bbe6c812dd/master.mpd",
+                                    "duration": "00:01:34",
+                                    "status": "Ready",
+                                    "types": [
+                                        "DASH",
+                                        "HLS"
+                                    ],
+                                    "createdAt": "2024-07-25T05:38:35.923Z",
+                                    "drmProtected": false
+                                }
+                            }
+                        ],
+                        "qbgSubjectId": "19c8p297y48dy01537cxzinys",
+                        "qbgChapterId": "j5papfkg773kpwkt08xazxad7",
+                        "qbgTopicId": "rmu561e7dtc5y7foxoktibrc9",
+                        "qbgId": "qpbuyfrmc2hzlip371d7gmq2q",
+                        "numericDecimalLimit": null,
+                        "exam": ""
+                    },
+                    {
+                        "_id": "6979ebbcdd67beaf75ffff38",
+                        "type": "Single",
+                        "questionNumber": 14,
+                        "positiveMarks": 0,
+                        "positiveMarksStr": "0",
+                        "negativeMarks": 0,
+                        "negativeMarksStr": "0",
+                        "partialPositiveMarks": null,
+                        "partialPositiveMarksStr": null,
+                        "texts": {
+                            "en": "<p>Solve \\( \\frac{x^{2}+2 x-3}{x^{2}+1}&lt;0 \\)</p>"
+                        },
+                        "imageIds": {},
+                        "options": [
+                            {
+                                "_id": "6979f86bb0224aaebc97c230",
+                                "texts": {
+                                    "en": "Select and submit to view solution"
+                                }
+                            }
+                        ],
+                        "difficultyLevel": 1,
+                        "pyqYears": [],
+                        "topicId": {
+                            "name": "Inequalities",
+                            "_id": "wwook5b4g9g1n096c8lrfnep9"
+                        },
+                        "sectionId": "6979ebbbdd67beaf75fffeb3",
+                        "subjectId": "19c8p297y48dy01537cxzinys",
+                        "chapterId": "fz0h996oq74fudihf5m8o4m1s",
+                        "subTopicId": "n6dhkwxe6kvoa8sb1wq03mrb2",
+                        "solutions": [
+                            "6979f86bb0224aaebc97c230"
+                        ],
+                        "solutionText": "3",
+                        "solutionDescription": [
+                            {
+                                "_id": "6979f88bb92f8153f1088825",
+                                "texts": {
+                                    "en": "<p>Given,&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>1</mn></mrow></mfrac><mo>&lt;</mo><mn>0</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>1</mn><mo>&gt;</mo><mn>0</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn><mo>&lt;</mo><mn>0</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>-</mo><mi>x</mi><mo>-</mo><mn>3</mn><mo>&lt;</mo><mn>0</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mfenced><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow></mfenced><mo>-</mo><mn>1</mn><mfenced><mrow><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfenced><mo>&lt;</mo><mn>0</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfenced><mfenced><mrow><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfenced><mo>&lt;</mo><mn>0</mn></math></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&isin;</mo><mfenced><mrow><mo>-</mo><mn>3</mn><mo>,</mo><mn>1</mn></mrow></mfenced></math></p>\n<p>Hence, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&isin;</mo><mfenced><mrow><mo>-</mo><mn>3</mn><mo>,</mo><mn>1</mn></mrow></mfenced></math></p>"
+                                },
+                                "videoType": "penpencilvdo",
+                                "videoDetails": {
+                                    "_id": "6860bfe5db5375f209910ff3",
+                                    "id": "6860bfe5db5375f209910ff3",
+                                    "name": "ynjdn3mgysdquwzjiq6g5gzh0",
+                                    "image": "",
+                                    "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/9563c022-c6da-4664-b6ec-64bd22034edb/master.mpd",
+                                    "description": "<!DOCTYPE html><html><head></head><body><p>youtube_output/chunk_27/ynjdn3mgysdquwzjiq6g5gzh0.mp4</p>↵</body></html>",
+                                    "duration": "00:01:36",
+                                    "status": "Ready",
+                                    "types": [
+                                        "DASH",
+                                        "HLS"
+                                    ],
+                                    "createdAt": "2025-06-29T04:24:05.889Z",
+                                    "drmProtected": false,
+                                    "isZipDownloadEnabled": false,
+                                    "isCmafEnabled": false
+                                },
+                                "reference": {}
+                            }
+                        ],
+                        "qbgSubjectId": "19c8p297y48dy01537cxzinys",
+                        "qbgChapterId": "fz0h996oq74fudihf5m8o4m1s",
+                        "qbgTopicId": "wwook5b4g9g1n096c8lrfnep9",
+                        "qbgId": "ynjdn3mgysdquwzjiq6g5gzh0",
+                        "numericDecimalLimit": null,
+                        "sectionImages": null,
+                        "sectionTexts": null,
+                        "exam": ""
+                    },
+                    {
+                        "_id": "6979ebe00654bc99be9ba7f9",
+                        "type": "Single",
+                        "questionNumber": 15,
+                        "positiveMarks": 0,
+                        "positiveMarksStr": "0",
+                        "negativeMarks": 0,
+                        "negativeMarksStr": "0",
+                        "imageIds": {
+                            "en": {
+                                "_id": "6979ebde03b64d04b70d8535",
+                                "name": "QUES_ENG_zlgzbxcfc1j47q8z4m3gmj0jp.png",
+                                "baseUrl": "https://static.pw.live/",
+                                "key": "5b09189f7285894d9130ccd0/0037875a-ef5c-4704-9b21-1db8e8512b72.png"
+                            }
+                        },
+                        "options": [
+                            {
+                                "_id": "6979ebe00654bc99be9ba802",
+                                "texts": {
+                                    "en": "Select and submit to view solution"
+                                }
+                            }
+                        ],
+                        "difficultyLevel": 1,
+                        "pyqYears": [],
+                        "topicId": {
+                            "name": "Wavy Curve Method",
+                            "_id": "rmu561e7dtc5y7foxoktibrc9"
+                        },
+                        "sectionId": "6979ebbbdd67beaf75fffeb3",
+                        "subjectId": "19c8p297y48dy01537cxzinys",
+                        "chapterId": "j5papfkg773kpwkt08xazxad7",
+                        "subTopicId": "gxic1andzjcrfur4b03qw6apu",
+                        "solutions": [
+                            "6979ebe00654bc99be9ba802"
+                        ],
+                        "solutionDescription": [
+                            {
+                                "_id": "6979ebe00654bc99be9ba7fa",
+                                "videoType": "penpencilvdo",
+                                "videoDetails": {
+                                    "_id": "6860bfe653ec25b9705209c8",
+                                    "id": "6860bfe653ec25b9705209c8",
+                                    "name": "zlgzbxcfc1j47q8z4m3gmj0jp",
+                                    "image": "",
+                                    "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/296724cc-bc96-49ea-84e5-942ba5e94ee3/master.mpd",
+                                    "description": "<!DOCTYPE html><html><head></head><body><p>youtube_video/zlgzbxcfc1j47q8z4m3gmj0jp.mp4</p>↵</body></html>",
+                                    "duration": "00:01:41",
+                                    "status": "Ready",
+                                    "types": [
+                                        "DASH",
+                                        "HLS"
+                                    ],
+                                    "createdAt": "2025-06-29T04:24:06.003Z",
+                                    "drmProtected": false,
+                                    "isZipDownloadEnabled": false,
+                                    "isCmafEnabled": false
+                                }
+                            }
+                        ],
+                        "qbgSubjectId": "19c8p297y48dy01537cxzinys",
+                        "qbgChapterId": "j5papfkg773kpwkt08xazxad7",
+                        "qbgTopicId": "rmu561e7dtc5y7foxoktibrc9",
+                        "qbgId": "zlgzbxcfc1j47q8z4m3gmj0jp",
+                        "numericDecimalLimit": null,
+                        "exam": ""
+                    },
+                    {
+                        "_id": "6979ebe00654bc99be9ba7ff",
+                        "type": "Single",
+                        "questionNumber": 16,
+                        "positiveMarks": 0,
+                        "positiveMarksStr": "0",
+                        "negativeMarks": 0,
+                        "negativeMarksStr": "0",
+                        "imageIds": {
+                            "en": {
+                                "_id": "6979ebde7c2cc38877acb525",
+                                "name": "QUES_ENG_mos96oj9yjrb8vne3m2zoqg9x.png",
+                                "baseUrl": "https://static.pw.live/",
+                                "key": "5b09189f7285894d9130ccd0/1657d288-64c8-4959-8c08-4e81db60a40c.png"
+                            }
+                        },
+                        "options": [
+                            {
+                                "_id": "6979ebe00654bc99be9ba809",
+                                "texts": {
+                                    "en": "Select and submit to view solution"
+                                }
+                            }
+                        ],
+                        "difficultyLevel": 2,
+                        "pyqYears": [],
+                        "topicId": {
+                            "name": "Inequalities",
+                            "_id": "wwook5b4g9g1n096c8lrfnep9"
+                        },
+                        "sectionId": "6979ebbbdd67beaf75fffeb3",
+                        "subjectId": "19c8p297y48dy01537cxzinys",
+                        "chapterId": "fz0h996oq74fudihf5m8o4m1s",
+                        "subTopicId": "n6dhkwxe6kvoa8sb1wq03mrb2",
+                        "solutions": [
+                            "6979ebe00654bc99be9ba809"
+                        ],
+                        "solutionDescription": [
+                            {
+                                "_id": "6979ebe00654bc99be9ba800",
+                                "videoType": "penpencilvdo",
+                                "videoDetails": {
+                                    "_id": "6860bfe64fbf2b1e49077c32",
+                                    "id": "6860bfe64fbf2b1e49077c32",
+                                    "name": "mos96oj9yjrb8vne3m2zoqg9x",
+                                    "image": "",
+                                    "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/cec08a7a-49b8-4bea-8928-e150d66258ca/master.mpd",
+                                    "description": "<!DOCTYPE html><html><head></head><body><p>youtube_video/mos96oj9yjrb8vne3m2zoqg9x.mp4</p>↵</body></html>",
+                                    "duration": "00:01:27",
+                                    "status": "Ready",
+                                    "types": [
+                                        "DASH",
+                                        "HLS"
+                                    ],
+                                    "createdAt": "2025-06-29T04:24:06.050Z",
+                                    "drmProtected": false,
+                                    "isZipDownloadEnabled": false,
+                                    "isCmafEnabled": false
+                                }
+                            }
+                        ],
+                        "qbgSubjectId": "19c8p297y48dy01537cxzinys",
+                        "qbgChapterId": "fz0h996oq74fudihf5m8o4m1s",
+                        "qbgTopicId": "wwook5b4g9g1n096c8lrfnep9",
+                        "qbgId": "mos96oj9yjrb8vne3m2zoqg9x",
+                        "numericDecimalLimit": null,
+                        "exam": ""
+                    },
+                    {
+                        "_id": "6979ebe00654bc99be9ba806",
+                        "type": "Single",
+                        "questionNumber": 17,
+                        "positiveMarks": 0,
+                        "positiveMarksStr": "0",
+                        "negativeMarks": 0,
+                        "negativeMarksStr": "0",
+                        "imageIds": {
+                            "en": {
+                                "_id": "6979ebdeaa4c89901b188812",
+                                "name": "QUES_ENG_qy89gogvt9xoj96cnf8z2yfkf.png",
+                                "baseUrl": "https://static.pw.live/",
+                                "key": "5b09189f7285894d9130ccd0/beedf766-10b1-402c-9de9-7ae85a5c4745.png"
+                            }
+                        },
+                        "options": [
+                            {
+                                "_id": "6979ebe00654bc99be9ba813",
+                                "texts": {
+                                    "en": "Select and submit to view solution"
+                                }
+                            }
+                        ],
+                        "difficultyLevel": 2,
+                        "pyqYears": [],
+                        "topicId": {
+                            "name": "Inequalities",
+                            "_id": "wwook5b4g9g1n096c8lrfnep9"
+                        },
+                        "sectionId": "6979ebbbdd67beaf75fffeb3",
+                        "subjectId": "19c8p297y48dy01537cxzinys",
+                        "chapterId": "fz0h996oq74fudihf5m8o4m1s",
+                        "subTopicId": "n6dhkwxe6kvoa8sb1wq03mrb2",
+                        "solutions": [
+                            "6979ebe00654bc99be9ba813"
+                        ],
+                        "solutionDescription": [
+                            {
+                                "_id": "6979ebe00654bc99be9ba807",
+                                "videoType": "penpencilvdo",
+                                "videoDetails": {
+                                    "_id": "686589666c1a264e94c76251",
+                                    "id": "686589666c1a264e94c76251",
+                                    "name": "qy89gogvt9xoj96cnf8z2yfkf",
+                                    "image": "",
+                                    "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/5507d7c8-7745-4fe2-a9ff-6b9f91e93869/master.mpd",
+                                    "description": "<!DOCTYPE html><html><head></head><body><p>yt_video_solutions_dpp/qy89gogvt9xoj96cnf8z2yfkf.mp4</p>↵</body></html>",
+                                    "duration": "00:01:22",
+                                    "status": "Ready",
+                                    "types": [
+                                        "DASH",
+                                        "HLS"
+                                    ],
+                                    "createdAt": "2025-07-02T19:32:54.792Z",
+                                    "drmProtected": false,
+                                    "isZipDownloadEnabled": false,
+                                    "isCmafEnabled": false
+                                }
+                            }
+                        ],
+                        "qbgSubjectId": "19c8p297y48dy01537cxzinys",
+                        "qbgChapterId": "fz0h996oq74fudihf5m8o4m1s",
+                        "qbgTopicId": "wwook5b4g9g1n096c8lrfnep9",
+                        "qbgId": "qy89gogvt9xoj96cnf8z2yfkf",
+                        "numericDecimalLimit": null,
+                        "exam": ""
+                    },
+                    {
+                        "_id": "6979ebe00654bc99be9ba810",
+                        "type": "Single",
+                        "questionNumber": 18,
+                        "positiveMarks": 0,
+                        "positiveMarksStr": "0",
+                        "negativeMarks": 0,
+                        "negativeMarksStr": "0",
+                        "imageIds": {
+                            "en": {
+                                "_id": "6979ebde69c4cab0083ec1bb",
+                                "name": "QUES_ENG_rweckjddlt1zehf4uf90x5afz.png",
+                                "baseUrl": "https://static.pw.live/",
+                                "key": "5b09189f7285894d9130ccd0/4a09c4ea-b731-4c8b-9395-aecfe7a78a31.png"
+                            }
+                        },
+                        "options": [
+                            {
+                                "_id": "6979ebe00654bc99be9ba818",
+                                "texts": {
+                                    "en": "Select and submit to view solution"
+                                }
+                            }
+                        ],
+                        "difficultyLevel": 2,
+                        "pyqYears": [],
+                        "topicId": {
+                            "name": "Inequalities",
+                            "_id": "wwook5b4g9g1n096c8lrfnep9"
+                        },
+                        "sectionId": "6979ebbbdd67beaf75fffeb3",
+                        "subjectId": "19c8p297y48dy01537cxzinys",
+                        "chapterId": "fz0h996oq74fudihf5m8o4m1s",
+                        "subTopicId": "n6dhkwxe6kvoa8sb1wq03mrb2",
+                        "solutions": [
+                            "6979ebe00654bc99be9ba818"
+                        ],
+                        "solutionDescription": [
+                            {
+                                "_id": "6979ebe00654bc99be9ba811",
+                                "videoType": "penpencilvdo",
+                                "videoDetails": {
+                                    "_id": "6860bfe6e1b6ef80d2488cb4",
+                                    "id": "6860bfe6e1b6ef80d2488cb4",
+                                    "name": "rweckjddlt1zehf4uf90x5afz",
+                                    "image": "",
+                                    "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/167ce3b5-71a4-4bf1-8832-b8b774d35ca6/master.mpd",
+                                    "description": "<!DOCTYPE html><html><head></head><body><p>youtube_video/rweckjddlt1zehf4uf90x5afz.mp4</p>↵</body></html>",
+                                    "duration": "00:02:15",
+                                    "status": "Ready",
+                                    "types": [
+                                        "DASH",
+                                        "HLS"
+                                    ],
+                                    "createdAt": "2025-06-29T04:24:06.122Z",
+                                    "drmProtected": false,
+                                    "isZipDownloadEnabled": false,
+                                    "isCmafEnabled": false
+                                }
+                            }
+                        ],
+                        "qbgSubjectId": "19c8p297y48dy01537cxzinys",
+                        "qbgChapterId": "fz0h996oq74fudihf5m8o4m1s",
+                        "qbgTopicId": "wwook5b4g9g1n096c8lrfnep9",
+                        "qbgId": "rweckjddlt1zehf4uf90x5afz",
+                        "numericDecimalLimit": null,
+                        "exam": ""
+                    },
+                    {
+                        "_id": "6979ebe00654bc99be9ba7fc",
+                        "type": "Single",
+                        "questionNumber": 19,
+                        "positiveMarks": 0,
+                        "positiveMarksStr": "0",
+                        "negativeMarks": 0,
+                        "negativeMarksStr": "0",
+                        "imageIds": {
+                            "en": {
+                                "_id": "6979ebdee27028d6e2e801f9",
+                                "name": "QUES_ENG_yz7734bkq6kxdle4yxvqcv6a5.png",
+                                "baseUrl": "https://static.pw.live/",
+                                "key": "5b09189f7285894d9130ccd0/87b1b0a3-97fb-48ea-b705-b82cb59373d3.png"
+                            }
+                        },
+                        "options": [
+                            {
+                                "_id": "6979ebe00654bc99be9ba804",
+                                "texts": {
+                                    "en": "Select and submit to view solution"
+                                }
+                            }
+                        ],
+                        "difficultyLevel": 2,
+                        "pyqYears": [],
+                        "topicId": {
+                            "name": "Algebraic Solutions of Linear Inequalities in One Variable and their Representation on the Number Line",
+                            "_id": "1mbupijz9e4mt5y6ru7rlbi44"
+                        },
+                        "sectionId": "6979ebbbdd67beaf75fffeb3",
+                        "subjectId": "19c8p297y48dy01537cxzinys",
+                        "chapterId": "fz0h996oq74fudihf5m8o4m1s",
+                        "subTopicId": "4h40dvoy1bbqmwmi4bk9j1405",
+                        "solutions": [
+                            "6979ebe00654bc99be9ba804"
+                        ],
+                        "solutionDescription": [
+                            {
+                                "_id": "6979ebe00654bc99be9ba7fd",
+                                "videoType": "penpencilvdo",
+                                "videoDetails": {
+                                    "_id": "6860bfe681360c147380525d",
+                                    "id": "6860bfe681360c147380525d",
+                                    "name": "yz7734bkq6kxdle4yxvqcv6a5",
+                                    "image": "",
+                                    "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/7ac75640-2822-49a7-9cf0-56473c5793c0/master.mpd",
+                                    "description": "<!DOCTYPE html><html><head></head><body><p>youtube_video/yz7734bkq6kxdle4yxvqcv6a5.mp4</p>↵</body></html>",
+                                    "duration": "00:02:34",
+                                    "status": "Ready",
+                                    "types": [
+                                        "DASH",
+                                        "HLS"
+                                    ],
+                                    "createdAt": "2025-06-29T04:24:06.434Z",
+                                    "drmProtected": false,
+                                    "isZipDownloadEnabled": false,
+                                    "isCmafEnabled": false
+                                }
+                            }
+                        ],
+                        "qbgSubjectId": "19c8p297y48dy01537cxzinys",
+                        "qbgChapterId": "fz0h996oq74fudihf5m8o4m1s",
+                        "qbgTopicId": "1mbupijz9e4mt5y6ru7rlbi44",
+                        "qbgId": "yz7734bkq6kxdle4yxvqcv6a5",
+                        "numericDecimalLimit": null,
+                        "exam": ""
+                    },
+                    {
+                        "_id": "6979ebe00654bc99be9ba80d",
+                        "type": "Single",
+                        "questionNumber": 20,
+                        "positiveMarks": 0,
+                        "positiveMarksStr": "0",
+                        "negativeMarks": 0,
+                        "negativeMarksStr": "0",
+                        "imageIds": {
+                            "en": {
+                                "_id": "6979ebdef056ca708bd6f4b2",
+                                "name": "QUES_ENG_nba0ec2mdnqu0r6y9fnllgf7f.png",
+                                "baseUrl": "https://static.pw.live/",
+                                "key": "5b09189f7285894d9130ccd0/57bebd9c-d6f7-49d8-bc4d-66c6eed0904e.png"
+                            }
+                        },
+                        "options": [
+                            {
+                                "_id": "6979ebe00654bc99be9ba816",
+                                "texts": {
+                                    "en": "Select and submit to view solution"
+                                }
+                            }
+                        ],
+                        "difficultyLevel": 1,
+                        "pyqYears": [],
+                        "topicId": {
+                            "name": "Inequalities",
+                            "_id": "wwook5b4g9g1n096c8lrfnep9"
+                        },
+                        "sectionId": "6979ebbbdd67beaf75fffeb3",
+                        "subjectId": "19c8p297y48dy01537cxzinys",
+                        "chapterId": "fz0h996oq74fudihf5m8o4m1s",
+                        "subTopicId": "n6dhkwxe6kvoa8sb1wq03mrb2",
+                        "solutions": [
+                            "6979ebe00654bc99be9ba816"
+                        ],
+                        "solutionDescription": [
+                            {
+                                "_id": "6979ebe00654bc99be9ba80e",
+                                "videoType": "penpencilvdo",
+                                "videoDetails": {
+                                    "_id": "6860bfe743e156a368c6dc6d",
+                                    "id": "6860bfe743e156a368c6dc6d",
+                                    "name": "nba0ec2mdnqu0r6y9fnllgf7f",
+                                    "image": "",
+                                    "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/1994619f-60ad-4351-9068-e5fd454677d2/master.mpd",
+                                    "description": "<!DOCTYPE html><html><head></head><body><p>youtube_video/nba0ec2mdnqu0r6y9fnllgf7f.mp4</p>↵</body></html>",
+                                    "duration": "00:01:34",
+                                    "status": "Ready",
+                                    "types": [
+                                        "DASH",
+                                        "HLS"
+                                    ],
+                                    "createdAt": "2025-06-29T04:24:07.441Z",
+                                    "drmProtected": false,
+                                    "isZipDownloadEnabled": false,
+                                    "isCmafEnabled": false
+                                }
+                            }
+                        ],
+                        "qbgSubjectId": "19c8p297y48dy01537cxzinys",
+                        "qbgChapterId": "fz0h996oq74fudihf5m8o4m1s",
+                        "qbgTopicId": "wwook5b4g9g1n096c8lrfnep9",
+                        "qbgId": "nba0ec2mdnqu0r6y9fnllgf7f",
+                        "numericDecimalLimit": null,
+                        "exam": ""
+                    },
+                    {
+                        "_id": "6979ebe00654bc99be9ba823",
+                        "type": "Single",
+                        "questionNumber": 21,
+                        "positiveMarks": 0,
+                        "positiveMarksStr": "0",
+                        "negativeMarks": 0,
+                        "negativeMarksStr": "0",
+                        "imageIds": {
+                            "en": {
+                                "_id": "6979ebded3eb53bb7ee88df8",
+                                "name": "QUES_ENG_b9lzv4b8pmv0m9av622q6slwp.png",
+                                "baseUrl": "https://static.pw.live/",
+                                "key": "5b09189f7285894d9130ccd0/5e5fad35-dcf5-4475-b97a-64af3e5c3bca.png"
+                            }
+                        },
+                        "options": [
+                            {
+                                "_id": "6979ebe00654bc99be9ba829",
+                                "texts": {
+                                    "en": "Select and submit to view solution"
+                                }
+                            }
+                        ],
+                        "difficultyLevel": 2,
+                        "pyqYears": [],
+                        "topicId": {
+                            "name": "Inequalities",
+                            "_id": "wwook5b4g9g1n096c8lrfnep9"
+                        },
+                        "sectionId": "6979ebbbdd67beaf75fffeb3",
+                        "subjectId": "19c8p297y48dy01537cxzinys",
+                        "chapterId": "fz0h996oq74fudihf5m8o4m1s",
+                        "subTopicId": "n6dhkwxe6kvoa8sb1wq03mrb2",
+                        "solutions": [
+                            "6979ebe00654bc99be9ba829"
+                        ],
+                        "solutionDescription": [
+                            {
+                                "_id": "6979ebe00654bc99be9ba824",
+                                "videoType": "penpencilvdo",
+                                "videoDetails": {
+                                    "_id": "686585fbc97174af135fb946",
+                                    "id": "686585fbc97174af135fb946",
+                                    "name": "b9lzv4b8pmv0m9av622q6slwp",
+                                    "image": "",
+                                    "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/3d39b7d4-36c8-4f61-9837-fab1098098e2/master.mpd",
+                                    "description": "<!DOCTYPE html><html><head></head><body><p>yt_video_solutions_dpp/b9lzv4b8pmv0m9av622q6slwp.mp4</p>↵</body></html>",
+                                    "duration": "00:03:48",
+                                    "status": "Ready",
+                                    "types": [
+                                        "DASH",
+                                        "HLS"
+                                    ],
+                                    "createdAt": "2025-07-02T19:18:19.783Z",
+                                    "drmProtected": false,
+                                    "isZipDownloadEnabled": false,
+                                    "isCmafEnabled": false
+                                }
+                            }
+                        ],
+                        "qbgSubjectId": "19c8p297y48dy01537cxzinys",
+                        "qbgChapterId": "fz0h996oq74fudihf5m8o4m1s",
+                        "qbgTopicId": "wwook5b4g9g1n096c8lrfnep9",
+                        "qbgId": "b9lzv4b8pmv0m9av622q6slwp",
+                        "numericDecimalLimit": null,
+                        "exam": ""
+                    },
+                    {
+                        "_id": "6979ebe00654bc99be9ba826",
+                        "type": "Single",
+                        "questionNumber": 22,
+                        "positiveMarks": 0,
+                        "positiveMarksStr": "0",
+                        "negativeMarks": 0,
+                        "negativeMarksStr": "0",
+                        "imageIds": {
+                            "en": {
+                                "_id": "6979ebdec1eb0e7d648369a5",
+                                "name": "QUES_ENG_kcphna96o53p7ldljgxhk0k2c.png",
+                                "baseUrl": "https://static.pw.live/",
+                                "key": "5b09189f7285894d9130ccd0/4990ebd8-73e0-4eea-aa18-039af48c92c7.png"
+                            }
+                        },
+                        "options": [
+                            {
+                                "_id": "6979ebe00654bc99be9ba82b",
+                                "texts": {
+                                    "en": "Select and submit to view solution"
+                                }
+                            }
+                        ],
+                        "difficultyLevel": 2,
+                        "pyqYears": [],
+                        "topicId": {
+                            "name": "Wavy Curve Method",
+                            "_id": "rmu561e7dtc5y7foxoktibrc9"
+                        },
+                        "sectionId": "6979ebbbdd67beaf75fffeb3",
+                        "subjectId": "19c8p297y48dy01537cxzinys",
+                        "chapterId": "j5papfkg773kpwkt08xazxad7",
+                        "subTopicId": "gxic1andzjcrfur4b03qw6apu",
+                        "solutions": [
+                            "6979ebe00654bc99be9ba82b"
+                        ],
+                        "solutionDescription": [
+                            {
+                                "_id": "6979ebe00654bc99be9ba827",
+                                "videoType": "penpencilvdo",
+                                "videoDetails": {
+                                    "_id": "6860bfe73ab40d8cec1d792e",
+                                    "id": "6860bfe73ab40d8cec1d792e",
+                                    "name": "kcphna96o53p7ldljgxhk0k2c",
+                                    "image": "",
+                                    "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/6db545dd-ac77-4cde-ae93-bc41f3832735/master.mpd",
+                                    "description": "<!DOCTYPE html><html><head></head><body><p>youtube_video/kcphna96o53p7ldljgxhk0k2c.mp4</p>↵</body></html>",
+                                    "duration": "00:06:34",
+                                    "status": "Ready",
+                                    "types": [
+                                        "DASH",
+                                        "HLS"
+                                    ],
+                                    "createdAt": "2025-06-29T04:24:07.250Z",
+                                    "drmProtected": false,
+                                    "isZipDownloadEnabled": false,
+                                    "isCmafEnabled": false
+                                }
+                            }
+                        ],
+                        "qbgSubjectId": "19c8p297y48dy01537cxzinys",
+                        "qbgChapterId": "j5papfkg773kpwkt08xazxad7",
+                        "qbgTopicId": "rmu561e7dtc5y7foxoktibrc9",
+                        "qbgId": "kcphna96o53p7ldljgxhk0k2c",
+                        "numericDecimalLimit": null,
+                        "exam": ""
+                    },
+                    {
+                        "_id": "6979ebbcdd67beaf75ffff41",
+                        "type": "Single",
+                        "questionNumber": 23,
+                        "positiveMarks": 4,
+                        "positiveMarksStr": "4",
+                        "negativeMarks": 1,
+                        "negativeMarksStr": "1",
+                        "texts": {
+                            "en": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" class=\"wrs_chemistry\"><mi>Solve</mi><mo>:</mo><mo>&#160;</mo><msqrt><msup><mi mathvariant=\"normal\">x</mi><mn>2</mn></msup><mo>-</mo><mn>5</mn><mi mathvariant=\"normal\">x</mi><mo>+</mo><mn>6</mn></msqrt><mo>&#62;</mo><msqrt><mi mathvariant=\"normal\">x</mi><mo>-</mo><mn>4</mn></msqrt></math></p>"
+                        },
+                        "options": [
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff4d",
+                                "texts": {
+                                    "en": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" class=\"wrs_chemistry\"><mi mathvariant=\"normal\">x</mi><mo>&isin;</mo><mo>(</mo><mo>-</mo><mo>&infin;</mo><mo>,</mo><mn>2</mn><mo>]</mo><mo>&cup;</mo><mo>[</mo><mn>3</mn><mo>,</mo><mo>&infin;</mo><mo>)</mo></math></p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff4e",
+                                "texts": {
+                                    "en": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" class=\"wrs_chemistry\"><mi mathvariant=\"normal\">x</mi><mo>&isin;</mo><mo>[</mo><mn>4</mn><mo>,</mo><mo>&infin;</mo><mo>)</mo></math></p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff4f",
+                                "texts": {
+                                    "en": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" class=\"wrs_chemistry\"><mi mathvariant=\"normal\">x</mi><mo>&isin;</mo><mo>[</mo><mn>3</mn><mo>,</mo><mn>10</mn><mo>/</mo><mn>3</mn><mo>)</mo></math></p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff50",
+                                "texts": {
+                                    "en": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\" class=\"wrs_chemistry\"><mi mathvariant=\"normal\">x</mi><mo>&isin;</mo><mo>[</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo>]</mo></math></p>"
+                                }
+                            }
+                        ],
+                        "difficultyLevel": 2,
+                        "pyqYears": [],
+                        "topicId": {
+                            "name": "Wavy Curve Method",
+                            "_id": "rmu561e7dtc5y7foxoktibrc9"
+                        },
+                        "sectionId": "6979ebbbdd67beaf75fffeb3",
+                        "subjectId": "19c8p297y48dy01537cxzinys",
+                        "chapterId": "j5papfkg773kpwkt08xazxad7",
+                        "subTopicId": "gxic1andzjcrfur4b03qw6apu",
+                        "solutions": [
+                            "6979ebbcdd67beaf75ffff4e"
+                        ],
+                        "solutionDescription": [
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff42",
+                                "videoType": "penpencilvdo",
+                                "videoDetails": {
+                                    "_id": "6865844aaad4822e8eedd676",
+                                    "id": "6865844aaad4822e8eedd676",
+                                    "name": "11emtz3r7f0hk6e8i6qd08wms",
+                                    "image": "",
+                                    "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/1aae9de5-7711-4909-9803-a8b733956017/master.mpd",
+                                    "description": "<!DOCTYPE html><html><head></head><body><p>yt_video_solutions_dpp/11emtz3r7f0hk6e8i6qd08wms.mp4</p>↵</body></html>",
+                                    "duration": "00:03:54",
+                                    "status": "Ready",
+                                    "types": [
+                                        "DASH",
+                                        "HLS"
+                                    ],
+                                    "createdAt": "2025-07-02T19:11:06.746Z",
+                                    "drmProtected": false,
+                                    "isZipDownloadEnabled": false,
+                                    "isCmafEnabled": false
+                                }
+                            }
+                        ],
+                        "qbgSubjectId": "19c8p297y48dy01537cxzinys",
+                        "qbgChapterId": "j5papfkg773kpwkt08xazxad7",
+                        "qbgTopicId": "rmu561e7dtc5y7foxoktibrc9",
+                        "qbgId": "11emtz3r7f0hk6e8i6qd08wms",
+                        "numericDecimalLimit": null,
+                        "exam": ""
+                    },
+                    {
+                        "_id": "6979ebbcdd67beaf75ffff47",
+                        "type": "Single",
+                        "questionNumber": 24,
+                        "positiveMarks": 4,
+                        "positiveMarksStr": "4",
+                        "negativeMarks": 1,
+                        "negativeMarksStr": "1",
+                        "texts": {
+                            "en": "<p>Solve : \\( \\sqrt{x+2} \\geq x \\)</p>"
+                        },
+                        "options": [
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff57",
+                                "texts": {
+                                    "en": "<p>\\( (-\\infty, 2] \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff58",
+                                "texts": {
+                                    "en": "<p>\\( [0,2] \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff59",
+                                "texts": {
+                                    "en": "<p>\\( [-2,2] \\)</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff5a",
+                                "texts": {
+                                    "en": "<p>\\( [2, \\infty) \\)</p>"
+                                }
+                            }
+                        ],
+                        "difficultyLevel": 1,
+                        "pyqYears": [],
+                        "topicId": {
+                            "name": "Algebraic Solutions of Linear Inequalities in One Variable and their Representation on the Number Line",
+                            "_id": "1mbupijz9e4mt5y6ru7rlbi44"
+                        },
+                        "sectionId": "6979ebbbdd67beaf75fffeb3",
+                        "subjectId": "19c8p297y48dy01537cxzinys",
+                        "chapterId": "fz0h996oq74fudihf5m8o4m1s",
+                        "subTopicId": "4h40dvoy1bbqmwmi4bk9j1405",
+                        "solutions": [
+                            "6979ebbcdd67beaf75ffff59"
+                        ],
+                        "solutionDescription": [
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff48",
+                                "videoType": "penpencilvdo",
+                                "videoDetails": {
+                                    "_id": "6860bff2b67d050cd1cf21a2",
+                                    "id": "6860bff2b67d050cd1cf21a2",
+                                    "name": "2gbq60ddi78lhozv5su3xpcfk",
+                                    "image": "",
+                                    "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/0a4faf6d-9276-4324-8316-b09f15b41da7/master.mpd",
+                                    "description": "<!DOCTYPE html><html><head></head><body><p>youtube_video/2gbq60ddi78lhozv5su3xpcfk.mp4</p>↵</body></html>",
+                                    "duration": "00:03:58",
+                                    "status": "Ready",
+                                    "types": [
+                                        "DASH",
+                                        "HLS"
+                                    ],
+                                    "createdAt": "2025-06-29T04:24:18.708Z",
+                                    "drmProtected": false,
+                                    "isZipDownloadEnabled": false,
+                                    "isCmafEnabled": false
+                                }
+                            }
+                        ],
+                        "qbgSubjectId": "19c8p297y48dy01537cxzinys",
+                        "qbgChapterId": "fz0h996oq74fudihf5m8o4m1s",
+                        "qbgTopicId": "1mbupijz9e4mt5y6ru7rlbi44",
+                        "qbgId": "2gbq60ddi78lhozv5su3xpcfk",
+                        "numericDecimalLimit": null,
+                        "exam": ""
+                    },
+                    {
+                        "_id": "6979ebbcdd67beaf75ffff44",
+                        "type": "Single",
+                        "questionNumber": 25,
+                        "positiveMarks": 4,
+                        "positiveMarksStr": "4",
+                        "negativeMarks": 1,
+                        "negativeMarksStr": "1",
+                        "texts": {
+                            "en": "<p>Find the number of integrals values of x satisfying&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\" class=\"wrs_chemistry\"><msqrt><mo>-</mo><msup><mi mathvariant=\"normal\">x</mi><mn>2</mn></msup><mo>+</mo><mn>10</mn><mi mathvariant=\"normal\">x</mi><mo>-</mo><mn>16</mn></msqrt><mo>&#60;</mo><mi>x</mi><mo>-</mo><mn>2</mn></math></p>"
+                        },
+                        "options": [
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff52",
+                                "texts": {
+                                    "en": "<p>7</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff53",
+                                "texts": {
+                                    "en": "<p>5</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff54",
+                                "texts": {
+                                    "en": "<p>2</p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff55",
+                                "texts": {
+                                    "en": "<p>3</p>"
+                                }
+                            }
+                        ],
+                        "difficultyLevel": 1,
+                        "pyqYears": [],
+                        "topicId": {
+                            "name": "Wavy Curve Method",
+                            "_id": "rmu561e7dtc5y7foxoktibrc9"
+                        },
+                        "sectionId": "6979ebbbdd67beaf75fffeb3",
+                        "subjectId": "19c8p297y48dy01537cxzinys",
+                        "chapterId": "j5papfkg773kpwkt08xazxad7",
+                        "subTopicId": "gxic1andzjcrfur4b03qw6apu",
+                        "solutions": [
+                            "6979ebbcdd67beaf75ffff55"
+                        ],
+                        "solutionDescription": [
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff45",
+                                "videoType": "youtube",
+                                "videoDetails": {
+                                    "name": "Find the number of integrals values of x satisfying&nbsp;-x2+10x-16&#60;x-2....",
+                                    "image": "https://i.ytimg.com/vi/iKpfNJNjNcw/mqdefault.jpg",
+                                    "embedCode": "https://www.youtube.com/embed/iKpfNJNjNcw",
+                                    "description": "Find the number of integrals values of x satisfying&nbsp;-x2+10x-16&#60;x-2 📲PW App Link - https://bit.ly/YTAI_PWAP  🌐PW Website - https://www.pw.live",
+                                    "duration": "2:44",
+                                    "publishedAt": "2024-09-16T13:30:46Z",
+                                    "_id": "66fd5e61201c268dab18a38e",
+                                    "createdAt": "2024-10-02T14:53:21.779Z"
+                                }
+                            }
+                        ],
+                        "qbgSubjectId": "19c8p297y48dy01537cxzinys",
+                        "qbgChapterId": "j5papfkg773kpwkt08xazxad7",
+                        "qbgTopicId": "rmu561e7dtc5y7foxoktibrc9",
+                        "qbgId": "1cddw89wcccs50ma7ggi6c9eg",
+                        "numericDecimalLimit": null,
+                        "exam": ""
+                    },
+                    {
+                        "_id": "6979ebbcdd67beaf75ffff4a",
+                        "type": "Single",
+                        "questionNumber": 26,
+                        "positiveMarks": 4,
+                        "positiveMarksStr": "4",
+                        "negativeMarks": 1,
+                        "negativeMarksStr": "1",
+                        "texts": {
+                            "en": "<p>Solution set of inequation</p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>&minus;</mo><mn>3</mn><mo>)</mo><mo>&ge;</mo><mn>5</mn></math> is:</p>"
+                        },
+                        "options": [
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff5e",
+                                "texts": {
+                                    "en": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&isin;</mo><mo>(</mo><mo>&minus;</mo><mi>&infin;</mi><mo>,</mo><mo>&minus;</mo><mn>1</mn><mo>]</mo><mo>&cup;</mo><mo>[</mo><mn>2</mn><mo>,</mo><mi>&infin;</mi><mo>)</mo></math></p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff5f",
+                                "texts": {
+                                    "en": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&isin;</mo><mo>(</mo><mo>&minus;</mo><mi>&infin;</mi><mo>,</mo><mo>&minus;</mo><mn>2</mn><mo>]</mo><mo>&cup;</mo><mo>[</mo><mn>4</mn><mo>,</mo><mi>&infin;</mi><mo>)</mo></math></p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff60",
+                                "texts": {
+                                    "en": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&isin;</mo><mo>(</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo>]</mo><mo>&cup;</mo><mo>[</mo><mn>6</mn><mo>,</mo><mi>&infin;</mi><mo>)</mo></math></p>"
+                                }
+                            },
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff61",
+                                "texts": {
+                                    "en": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&isin;</mo><mo>(</mo><mo>&minus;</mo><mi>&infin;</mi><mo>,</mo><mo>&minus;</mo><mn>4</mn><mo>]</mo><mo>&cup;</mo><mo>[</mo><mo>&minus;</mo><mn>2</mn><mo>,</mo><mo>&minus;</mo><mn>1</mn><mo>]</mo><mo>&cup;</mo><mo>[</mo><mn>1</mn><mo>,</mo><mi>&infin;</mi><mo>)</mo></math></p>"
+                                }
+                            }
+                        ],
+                        "difficultyLevel": 1,
+                        "pyqYears": [],
+                        "topicId": {
+                            "name": "Wavy Curve Method",
+                            "_id": "rmu561e7dtc5y7foxoktibrc9"
+                        },
+                        "sectionId": "6979ebbbdd67beaf75fffeb3",
+                        "subjectId": "19c8p297y48dy01537cxzinys",
+                        "chapterId": "j5papfkg773kpwkt08xazxad7",
+                        "subTopicId": "gxic1andzjcrfur4b03qw6apu",
+                        "solutions": [
+                            "6979ebbcdd67beaf75ffff61"
+                        ],
+                        "solutionDescription": [
+                            {
+                                "_id": "6979ebbcdd67beaf75ffff4b",
+                                "texts": {
+                                    "en": "<p>(<em>x</em><sup>2</sup> + 3<em>x</em> + 1) (<em>x</em><sup>2 </sup>+ 3<em>x</em> &ndash; 3)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&ge;</mo></math> 5</p>\n<p>Let <em>y</em> = <em>x</em><sup>2</sup> + 3<em>x</em></p>\n<p>(y + 1) (y &ndash; 3)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&ge;</mo></math> 5</p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo></math> <em>y</em><sup>2</sup> &ndash; 3<em>y</em> + <em>y</em> &ndash; 3&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&ge;</mo></math> 5</p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo></math> <em>y</em><sup>2</sup> &ndash; 2<em>y</em> &ndash; 8 <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&ge;</mo></math> 0</p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo></math> (<em>y</em> + 2) (<em>y</em> &ndash; 4) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&ge;</mo></math> 0</p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo></math> (<em>x</em><sup>2</sup> + 3<em>x</em> + 2) (<em>x</em><sup>2</sup> + 3<em>x</em> &ndash; 4)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&ge;</mo></math> 0</p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&rArr;</mo></math> (<em>x</em> + 1) (<em>x</em> + 2) (<em>x</em> + 4) (<em>x</em> &ndash; 1)&nbsp;<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>&ge;</mo></math> 0</p>\n<p><img title=\"1.png\" src=\"https://static.pw.live/5eb393ee95fab7468a79d189/QBG/6e54f3d5-c7af-4bf0-bfae-915eb0116ab2.png\" alt=\"\" width=\"232\" height=\"42\" /></p>\n<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>&nbsp;</mo><mo>&isin;</mo><mo>&nbsp;</mo><mo>(</mo><mo>&ndash;</mo><mo>&infin;</mo><mo>,</mo><mo>&nbsp;</mo><mo>&ndash;</mo><mn>4</mn><mo>]</mo><mo>&nbsp;</mo><mo>&cup;</mo><mo>&nbsp;</mo><mo>[</mo><mo>&ndash;</mo><mn>2</mn><mo>,</mo><mo>&nbsp;</mo><mo>&ndash;</mo><mn>1</mn><mo>]</mo><mo>&nbsp;</mo><mo>&cup;</mo><mo>&nbsp;</mo><mo>[</mo><mn>1</mn><mo>,</mo><mo>&nbsp;</mo><mo>&infin;</mo><mo>]</mo></math></p>"
+                                },
+                                "videoType": "penpencilvdo",
+                                "videoDetails": {
+                                    "_id": "6682433cf424a2001999d141",
+                                    "id": "6682433cf424a2001999d141",
+                                    "name": "Q478.mp4",
+                                    "image": "",
+                                    "videoUrl": "https://d1d34p8vz63oiq.cloudfront.net/72b8c733-3615-4676-98c7-4ac2a0ba38b1/master.mpd",
+                                    "duration": "00:02:56",
+                                    "status": "Ready",
+                                    "types": [
+                                        "DASH",
+                                        "HLS"
+                                    ],
+                                    "createdAt": "2024-07-01T05:48:47.532Z",
+                                    "drmProtected": false
+                                }
+                            }
+                        ],
+                        "qbgSubjectId": "19c8p297y48dy01537cxzinys",
+                        "qbgChapterId": "j5papfkg773kpwkt08xazxad7",
+                        "qbgTopicId": "rmu561e7dtc5y7foxoktibrc9",
+                        "qbgId": "5btsafiapkm21r79w3nl082j6",
+                        "numericDecimalLimit": null,
+                        "exam": ""
+                    }
+                ],
+                "selectedOptionalSection": false
+            }
+        ],
+        "testStudentMapping": {
+            "_id": "69cd323653d06f293a825bbb",
+            "testActivityStatus": "Started",
+            "startedAt": "2026-04-01T14:56:54.638Z",
+            "endsAt": "2026-04-01T16:04:54.638Z",
+            "testSource": "BATCH_QUIZ"
+        },
+        "test": {
+            "_id": "6979eb6f55d35978746618fe",
+            "name": "Basic Mathematics : DPP 01 MCQ Quiz",
+            "type": "Exercise",
+            "testType": "Exercise",
+            "template": "PW",
+            "sectionTimingEnable": false,
+            "allowSubmit": false,
+            "isPausable": true,
+            "config": {
+                "isScientificCalculatorEnabled": false,
+                "enableBasicCalculator": false
+            },
+            "enableQuestionPaper": false,
+            "showCompQuestionsTogether": false,
+            "smartDPP": false
+        },
+        "enableFeedback": true,
+        "tag1": null,
+        "languageCodes": [
+            {
+                "language": "English",
+                "isSelected": true,
+                "code": "en"
+            }
+        ],
+        "examPatternConfig": {
+            "type": null,
+            "patternError": null,
+            "sectionPattern": null,
+            "optionalSections": null,
+            "sectionText": null,
+            "maxOptionalSectionAttempts": null
+        },
+        "attemptCount": 1,
+        "comprehensionData": {
+            "comprehensions": [],
+            "comprehensionRanges": []
+        },
+        "remainingDuration": 4080,
+        "currentTime": "2026-04-01T14:56:54.000Z",
+        "bookmarkEnabled": true,
+        "isAIGuruEnabled": false,
+        "enablePeriodicSync": false,
+        "periodicSyncInterval": 300000
+    }
+}
